@@ -30,7 +30,7 @@ I tried to keep it minimal while being functional, and ofcourse all in dark colo
 
 Setting this rice up isn't difficult, just follow these steps:
 
-> ![NOTE]
+> [!NOTE]
 > I am on arch, thus using paru(an AUR helper), it may vary depending on your distro. The package names may vary too.
 
 1. Install dependencies:
@@ -43,7 +43,7 @@ paru -S niri fastfetch cava waybar anyrun ncmpcpp mpd wlogout
 
 2. Clone this repo & move the files to your config dir:
 
-> ![WARNING]
+> [!WARNING]
 > This will replace any previous config files, so make sure to prepare a backup! Also note that any directory inside the config directory named screenshots or file called README.md will be deleted!
 
 ```bash
