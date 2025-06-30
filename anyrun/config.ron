@@ -1,0 +1,21 @@
+Config(
+  x: Fraction(0.5),
+  y: Fraction(0.2),
+
+  width: Absolute(900),
+  height: Absolute(40),
+  hide_icons: false, 
+  ignore_exclusive_zones: false, //whether to ignore waybar
+
+  layer: Overlay, 
+  hide_plugin_info: false, 
+  close_on_click: true,
+  show_results_immediately: true,
+
+  max_entries: None,
+  
+  plugins: [
+    "libapplications.so",
+    "librink.so",
+  ],
+)

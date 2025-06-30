@@ -1,0 +1,1885 @@
+Dec 26 10:47 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 10:47 : exception: Failed to access /home/shibam/Music/MySongs: No such file or directory
+Dec 26 10:52 : exception: Failed to open /home/shibam/Music/MySongs/Playlists: No such file or directory
+Dec 26 11:03 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 11:40 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 12:13 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 12:29 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 12:51 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 13:01 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 13:09 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 13:19 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 13:24 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 13:35 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 18:27 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 26 18:30 : inotify: music directory was removed - cannot continue to watch it
+Dec 26 18:30 : exception: Failed to access /home/shibam/Music/MySongs: No such file or directory
+Dec 26 18:33 : exception: Bad song index
+Dec 26 18:33 : update: added /Für_Elise.mp3
+Dec 26 18:33 : update: added /Zara_Zara_Behekta_Hai.mp3
+Dec 26 18:33 : update: added /Sawan_Ka_Mahina.mp3
+Dec 26 18:33 : update: added /Nadaaniyan.mp3
+Dec 26 18:33 : update: added /Kaun_Tujhe.mp3
+Dec 26 18:33 : update: added /Tera_Hone_Laga_Hoon.mp3
+Dec 26 18:33 : update: added /Banjaara.mp3
+Dec 26 18:33 : update: added /Hasi_Ban_Gaye.mp3
+Dec 26 18:33 : update: added /Enna_Sona.mp3
+Dec 26 18:33 : update: added /No_Roots.mp3
+Dec 26 18:33 : update: added /Teri_Meri_Preh_Kahani.mp3
+Dec 26 18:33 : update: added /Jeena_Jeena.mp3
+Dec 26 18:33 : update: added /Toota_Jo_Kabhi_Taara.mp3
+Dec 26 18:33 : update: added /Satranga.mp3
+Dec 26 18:33 : update: added /Jotaros_Theme.mp3
+Dec 26 18:33 : update: added /Maa.mp3
+Dec 26 18:33 : update: added /Chahu_main_ya_na.mp3
+Dec 26 18:33 : update: added /Big_Dawgs.mp3
+Dec 26 18:33 : update: added /Hamari_Adhuri_Kahani.mp3
+Dec 26 18:33 : update: added /Khalasi.mp3
+Dec 26 18:33 : update: added /World's_Smallest_Violin.mp3
+Dec 26 18:33 : update: added /Pasoori.mp3
+Dec 26 18:33 : update: added /Suzume_Theme_Song.mp3
+Dec 26 18:33 : update: added /HUSN.mp3
+Dec 26 18:33 : update: added /Mere Liye Tum Kaafi Ho Song ｜ Shubh Mangal Zyada Saavdhan ｜ Ayushman Khurana,Jeetu ｜ Tanishk - Vayu [5LBB6OV3Ano].mp3
+Dec 26 18:33 : update: added /StudyMusic.mp3
+Dec 26 18:33 : update: added /Shape_Of_You.mp3
+Dec 26 18:33 : update: added /AISA KYUN MAA Lyrical ｜ NEERJA ｜ Sonam Kapoor ｜ Prasoon Joshi ｜ T-Series [7--P4RFGBDA].mp3
+Dec 26 18:33 : update: added /Lofi_music_2_hours.mp3
+Dec 26 18:33 : update: added /Tere_Mere.mp3
+Dec 26 18:33 : update: added /Bolo Na.mp3
+Dec 26 18:33 : update: added /Tum_se.mp3
+Dec 26 18:33 : update: added /Love_Nwantiti.mp3
+Dec 26 18:33 : update: added /Baarish.mp3
+Dec 26 18:33 : update: added /Pal.mp3
+Dec 26 18:33 : update: added /Nazm_Nazm.mp3
+Dec 26 18:33 : update: added /Qaafirana.mp3
+Dec 26 18:33 : update: added /Kabira.mp3
+Dec 26 18:33 : update: added /Symphony_No_5.mp3
+Dec 26 18:33 : update: added /Main_Rang_Sharbaton_Ka.mp3
+Dec 26 18:33 : update: added /Gerua.mp3
+Dec 26 18:33 : update: added /Jeene_Laga_Hoon.mp3
+Dec 26 18:33 : update: added /Mein_Dhoondne_Ko_Zamaane_Mein.mp3
+Dec 26 18:33 : update: added /Dhadak.mp3
+Dec 26 18:33 : update: added /Uljhan.mp3
+Dec 26 18:33 : update: added /Kashmir .mp3
+Dec 26 18:33 : update: added /Haan_ke_Haan.mp3
+Dec 26 18:33 : update: added /Kabhi_Jo_Badal_Barse.mp3
+Dec 26 18:33 : update: added /River_Flows_In_You.mp3
+Dec 26 18:33 : update: added /Moonlight_Sonata-Marcin.mp3
+Dec 26 18:33 : update: added /Tu_Jo_Hai.mp3
+Dec 26 18:33 : update: added /Bojhena Shey Bojhena.mp3
+Dec 26 18:33 : update: added /Dekhha_Tenu.mp3
+Dec 26 18:33 : update: added /The_Local_Train-Choo_Lo.mp3
+Dec 26 18:33 : update: added /Asal_Mein.mp3
+Dec 26 18:33 : update: added /Muskuraane.mp3
+Dec 26 18:33 : update: added /Khulke_Jeene_Ka.mp3
+Dec 26 18:33 : update: added /It'll_Be_Okay.mp3
+Dec 26 18:33 : update: added /Dil_Diyan_Gallan.mp3
+Dec 26 18:33 : update: added /Hedwigs_theme.mp3
+Dec 26 18:33 : update: added /Kasturi.mp3
+Dec 26 18:33 : update: added /Arcade.mp3
+Dec 26 18:33 : update: added /Naina.mp3
+Dec 26 18:33 : update: added /Alag_Aasmaan.mp3
+Dec 26 18:33 : update: added /La_Campanella.mp3
+Dec 26 18:33 : update: added /Phir_Bhi_Tumko_Chahunga.mp3
+Dec 26 18:33 : update: added /Gaye_jaa.mp3
+Dec 26 18:33 : update: added /Monta_Re.mp3
+Dec 26 18:33 : update: added /Sawaar_Loon.mp3
+Dec 26 18:33 : update: added /Mere Naam Tu.mp3
+Dec 26 18:33 : update: added /Sun_Saathiya.mp3
+Dec 26 18:33 : update: added /Mann_Jogiya.mp3
+Dec 26 18:33 : update: added /Tu_Hai_Ki_Nahi.mp3
+Dec 26 18:33 : update: added /Galliyan.mp3
+Dec 26 18:33 : update: added /Piya_O_Re_Piya.mp3
+Dec 26 18:33 : update: added /Jo_Tum_Mere_Ho.mp3
+Dec 26 18:33 : update: added /Cornfield_Chase.mp3
+Dec 26 18:33 : update: added /Let_Me_Down_Slowly.mp3
+Dec 26 18:33 : update: added /Rondo Alla Turca (Turkish March).mp3
+Dec 26 18:33 : update: added /Pal_Pal_Dil_Ke_Paas.mp3
+Dec 26 18:33 : update: added /Heeriye.mp3
+Dec 26 18:33 : update: added /Baatein Ye kabhi na.mp3
+Dec 26 18:33 : update: added /Sunn_Raha_Hai_Na_Tu.mp3
+Dec 26 18:33 : update: added /FRIENDS.mp3
+Dec 26 18:33 : update: added /Khamoshiyan.mp3
+Dec 26 18:33 : update: added /Dil_Meri_Na_Sune.mp3
+Dec 26 18:33 : update: added /Oppenheimer_Theme.mp3
+Dec 26 18:33 : update: added /Carmen-Habanera .mp3
+Dec 26 18:33 : update: added /Tum_Hi_aana.mp3
+Dec 26 18:33 : update: added /YALGAAR.mp3
+Dec 26 18:33 : update: added /Suno_Na_Sungemarmar.mp3
+Dec 26 18:33 : update: added /Nocture op 9 no.2 E Flat Major.mp3
+Dec 26 18:33 : update: added /Tujhe_Kitna_Chahne_Lage_Hum.mp3
+Dec 26 18:33 : update: added /Geornos_Theme.mp3
+Dec 26 18:33 : update: added /Moonlight_Sonata_3rd_Movement.mp3
+Dec 26 18:33 : update: added /Thodi_Der.mp3
+Dec 26 18:33 : update: added /Digital_Caffeine.mp3
+Dec 26 18:33 : update: added /Hume_Tumse_Pyaar_Kitna.mp3
+Dec 26 18:33 : update: added /3HourLofi.mp3
+Dec 26 18:33 : update: added /Sparkle.mp3
+Dec 26 18:33 : update: added /Rain Music.mp3
+Dec 26 18:34 : update: removing AISA KYUN MAA Lyrical ｜ NEERJA ｜ Sonam Kapoor ｜ Prasoon Joshi ｜ T-Series [7--P4RFGBDA].mp3
+Dec 26 18:34 : update: added /aisa_kyun_maa.mp3
+Dec 26 18:35 : update: removing Mere Liye Tum Kaafi Ho Song ｜ Shubh Mangal Zyada Saavdhan ｜ Ayushman Khurana,Jeetu ｜ Tanishk - Vayu [5LBB6OV3Ano].mp3
+Dec 26 19:32 : player: played "Bojhena Shey Bojhena.mp3"
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 26 20:13 : exception: Not playing
+Dec 27 01:19 : player: played "Kasturi.mp3"
+Dec 27 01:24 : player: played "Sawaar_Loon.mp3"
+Dec 27 02:31 : player: played "Kabira.mp3"
+Dec 27 13:39 : player: played "Chahu_main_ya_na.mp3"
+Dec 27 14:19 : player: played "Toota_Jo_Kabhi_Taara.mp3"
+Dec 27 14:28 : player: played "Phir_Bhi_Tumko_Chahunga.mp3"
+Dec 27 14:33 : player: played "Dil_Meri_Na_Sune.mp3"
+Dec 27 14:37 : player: played "Mein_Dhoondne_Ko_Zamaane_Mein.mp3"
+Dec 27 14:40 : player: played "Kashmir .mp3"
+Dec 27 14:44 : player: played "No_Roots.mp3"
+Dec 27 15:08 : output: Failed to play on "PipeWire Sound Server" (pipewire): connection error
+Dec 27 15:08 : exception: connection error
+Dec 27 15:09 : player: played "Nocture op 9 no.2 E Flat Major.mp3"
+Dec 27 15:35 : player: played "Chahu_main_ya_na.mp3"
+Dec 27 20:55 : player: played "YALGAAR.mp3"
+Dec 27 21:00 : player: played "La_Campanella.mp3"
+Dec 27 21:51 : player: played "Tum_se.mp3"
+Dec 27 22:13 : player: played "Piya_O_Re_Piya.mp3"
+Dec 27 22:16 : player: played "Arcade.mp3"
+Dec 27 22:40 : player: played "Sunn_Raha_Hai_Na_Tu.mp3"
+Dec 27 22:44 : player: played "Jeene_Laga_Hoon.mp3"
+Dec 27 22:47 : player: played "Sun_Saathiya.mp3"
+Dec 27 23:07 : player: played "Naina.mp3"
+Dec 28 15:01 : player: played "aisa_kyun_maa.mp3"
+Dec 28 15:03 : update: added /Mere Mehboob ｜ Vicky Vidya Ka Woh Wala Video ｜ Rajkummar ｜ Triptii Dimri ｜Sachin-Jigar,Shilpa,Sachet [UdsO4SM4wKI].mp3
+Dec 28 15:03 : update: added /Mere Mehboob ｜ Vicky Vidya Ka Woh Wala Video ｜ Rajkummar ｜ Triptii Dimri ｜Sachin-Jigar,Shilpa,Sachet [UdsO4SM4wKI].webm
+Dec 28 15:03 : update: removing Mere Mehboob ｜ Vicky Vidya Ka Woh Wala Video ｜ Rajkummar ｜ Triptii Dimri ｜Sachin-Jigar,Shilpa,Sachet [UdsO4SM4wKI].webm
+Dec 28 15:03 : update: updating /Mere Mehboob ｜ Vicky Vidya Ka Woh Wala Video ｜ Rajkummar ｜ Triptii Dimri ｜Sachin-Jigar,Shilpa,Sachet [UdsO4SM4wKI].mp3
+Dec 28 15:07 : player: played "Mere Mehboob ｜ Vicky Vidya Ka Woh Wala Video ｜ Rajkummar ｜ Triptii Dimri ｜Sachin-Jigar,Shilpa,Sachet [UdsO4SM4wKI].mp3"
+Dec 28 15:11 : player: played "Asal_Mein.mp3"
+Dec 28 15:19 : player: played "Dekhha_Tenu.mp3"
+Dec 28 15:25 : player: played "Heeriye.mp3"
+Dec 28 15:56 : player: played "Satranga.mp3"
+Dec 28 19:49 : player: played "Hume_Tumse_Pyaar_Kitna.mp3"
+Dec 29 00:12 : player: played "Sparkle.mp3"
+Dec 29 00:54 : player: played "Baatein Ye kabhi na.mp3"
+Dec 29 02:02 : player: played "HUSN.mp3"
+Dec 29 02:05 : player: played "Carmen-Habanera .mp3"
+Dec 29 02:31 : player: played "Lofi_music_2_hours.mp3"
+Dec 29 19:19 : player: played "Dekhha_Tenu.mp3"
+Dec 30 01:31 : player: played "Baarish.mp3"
+Dec 30 20:56 : player: played "Suzume_Theme_Song.mp3"
+Dec 30 21:02 : player: played "Kasturi.mp3"
+Dec 31 19:58 : player: played "Symphony_No_5.mp3"
+Dec 31 23:31 : player: played "Hedwigs_theme.mp3"
+Jan 02 00:47 : player: played "Lofi_music_2_hours.mp3"
+Jan 02 14:13 : player: played "Cornfield_Chase.mp3"
+Jan 02 19:54 : player: played "aisa_kyun_maa.mp3"
+Jan 03 11:49 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jan 03 17:27 : player: played "3HourLofi.mp3"
+Jan 04 13:48 : player: played "YALGAAR.mp3"
+Jan 05 00:01 : player: played "Lofi_music_2_hours.mp3"
+Jan 05 15:07 : player: played "aisa_kyun_maa.mp3"
+Jan 05 18:47 : player: played "Cornfield_Chase.mp3"
+Jan 05 21:14 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jan 05 21:58 : player: played "Bojhena Shey Bojhena.mp3"
+Jan 05 22:08 : player: played "Baatein Ye kabhi na.mp3"
+Jan 05 22:56 : player: played "3HourLofi.mp3"
+Jan 06 00:44 : player: played "Kasturi.mp3"
+Jan 07 01:27 : player: played "Lofi_music_2_hours.mp3"
+Jan 08 19:24 : player: played "Rain Music.mp3"
+Jan 09 01:30 : player: played "3HourLofi.mp3"
+Jan 10 01:46 : player: played "Rain Music.mp3"
+Jan 10 23:44 : player: played "Nocture op 9 no.2 E Flat Major.mp3"
+Jan 10 23:47 : player: played "Jeena_Jeena.mp3"
+Jan 10 23:51 : player: played "Big_Dawgs.mp3"
+Jan 10 23:55 : player: played "Tum_Hi_aana.mp3"
+Jan 11 00:16 : player: played "Satranga.mp3"
+Jan 11 00:21 : player: played "Hasi_Ban_Gaye.mp3"
+Jan 11 02:09 : player: played "Tera_Hone_Laga_Hoon.mp3"
+Jan 12 13:07 : player: played "Bojhena Shey Bojhena.mp3"
+Jan 12 15:35 : player: played "Bojhena Shey Bojhena.mp3"
+Jan 12 16:43 : player: played "Bojhena Shey Bojhena.mp3"
+Jan 12 18:54 : player: played "Khamoshiyan.mp3"
+Jan 12 19:00 : player: played "Gaye_jaa.mp3"
+Jan 12 19:02 : player: played "Kabhi_Jo_Badal_Barse.mp3"
+Jan 12 19:52 : player: played "No_Roots.mp3"
+Jan 12 19:55 : player: played "Für_Elise.mp3"
+Jan 12 20:00 : player: played "Tu_Hai_Ki_Nahi.mp3"
+Jan 12 20:03 : player: played "Kashmir .mp3"
+Jan 12 22:27 : player: played "Baarish.mp3"
+Jan 12 22:30 : player: played "World's_Smallest_Violin.mp3"
+Jan 12 22:43 : player: played "Qaafirana.mp3"
+Jan 12 22:49 : player: played "Symphony_No_5.mp3"
+Jan 13 00:02 : player: played "Thodi_Der.mp3"
+Jan 13 00:06 : player: played "Enna_Sona.mp3"
+Jan 13 00:10 : player: played "Hasi_Ban_Gaye.mp3"
+Jan 13 00:14 : player: played "Carmen-Habanera .mp3"
+Jan 14 01:52 : player: played "3HourLofi.mp3"
+Jan 14 20:32 : player: played "Bolo Na.mp3"
+Jan 14 20:36 : player: played "Jo_Tum_Mere_Ho.mp3"
+Jan 14 23:16 : player: played "River_Flows_In_You.mp3"
+Jan 14 23:21 : player: played "Nocture op 9 no.2 E Flat Major.mp3"
+Jan 14 23:45 : player: played "Sparkle.mp3"
+Jan 14 23:50 : player: played "Geornos_Theme.mp3"
+Jan 14 23:54 : player: played "It'll_Be_Okay.mp3"
+Jan 14 23:59 : player: played "La_Campanella.mp3"
+Jan 15 00:04 : player: played "Satranga.mp3"
+Jan 15 00:08 : player: played "Kaun_Tujhe.mp3"
+Jan 15 00:10 : player: played "Teri_Meri_Preh_Kahani.mp3"
+Jan 15 00:12 : player: played "Oppenheimer_Theme.mp3"
+Jan 15 00:17 : player: played "Suzume_Theme_Song.mp3"
+Jan 15 00:21 : player: played "Jeene_Laga_Hoon.mp3"
+Jan 15 13:28 : player: played "Lofi_music_2_hours.mp3"
+Jan 15 22:15 : player: played "Nazm_Nazm.mp3"
+Jan 15 22:21 : player: played "Qaafirana.mp3"
+Jan 15 22:27 : player: played "Hamari_Adhuri_Kahani.mp3"
+Jan 15 22:31 : player: played "Tera_Hone_Laga_Hoon.mp3"
+Jan 15 22:35 : player: played "Hedwigs_theme.mp3"
+Jan 15 22:39 : player: played "Jo_Tum_Mere_Ho.mp3"
+Jan 15 22:53 : player: played "Baarish.mp3"
+Jan 15 22:57 : player: played "Tu_Jo_Hai.mp3"
+Jan 15 23:00 : player: played "River_Flows_In_You.mp3"
+Jan 15 23:56 : player: played "Khulke_Jeene_Ka.mp3"
+Jan 15 23:59 : player: played "Naina.mp3"
+Jan 16 00:12 : player: played "Pal_Pal_Dil_Ke_Paas.mp3"
+Jan 16 00:15 : player: played "Kashmir .mp3"
+Jan 16 01:31 : player: played "Asal_Mein.mp3"
+Jan 16 18:26 : player: played "Tu_Hai_Ki_Nahi.mp3"
+Jan 16 18:31 : player: played "Nocture op 9 no.2 E Flat Major.mp3"
+Jan 16 18:33 : player: played "Oppenheimer_Theme.mp3"
+Jan 16 18:37 : player: played "Jeene_Laga_Hoon.mp3"
+Jan 17 02:20 : player: played "Thodi_Der.mp3"
+Jan 17 23:00 : player: played "Jeena_Jeena.mp3"
+Jan 18 00:36 : player: played "Symphony_No_5.mp3"
+Jan 18 00:41 : player: played "Thodi_Der.mp3"
+Jan 18 00:46 : player: played "Mein_Dhoondne_Ko_Zamaane_Mein.mp3"
+Jan 18 00:49 : player: played "Enna_Sona.mp3"
+Jan 18 00:55 : player: played "Hamari_Adhuri_Kahani.mp3"
+Jan 18 00:58 : player: played "Teri_Meri_Preh_Kahani.mp3"
+Jan 18 01:02 : player: played "Hume_Tumse_Pyaar_Kitna.mp3"
+Jan 18 01:04 : player: played "Muskuraane.mp3"
+Jan 18 01:07 : player: played "Uljhan.mp3"
+Jan 18 01:11 : player: played "Tu_Jo_Hai.mp3"
+Jan 18 01:14 : player: played "Naina.mp3"
+Jan 18 01:20 : player: played "Phir_Bhi_Tumko_Chahunga.mp3"
+Jan 18 01:29 : player: played "Cornfield_Chase.mp3"
+Jan 18 01:35 : player: played "Tu_Hai_Ki_Nahi.mp3"
+Jan 18 01:38 : player: played "Suno_Na_Sungemarmar.mp3"
+Jan 18 01:42 : player: played "Hasi_Ban_Gaye.mp3"
+Jan 18 01:47 : player: played "Maa.mp3"
+Jan 18 01:54 : player: played "Sawaar_Loon.mp3"
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 18 18:41 : exception: Not playing
+Jan 21 15:24 : player: played "YALGAAR.mp3"
+Jan 21 15:40 : player: played "La_Campanella.mp3"
+Jan 21 16:31 : player: played "Moonlight_Sonata-Marcin.mp3"
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:31 : exception: Not playing
+Jan 21 16:42 : player: played "YALGAAR.mp3"
+Jan 21 17:14 : player: played "Dekhha_Tenu.mp3"
+Jan 21 17:22 : player: played "FRIENDS.mp3"
+Jan 21 17:25 : player: played "Big_Dawgs.mp3"
+Jan 21 17:29 : player: played "Jeena_Jeena.mp3"
+Jan 21 17:35 : player: played "La_Campanella.mp3"
+Jan 21 17:44 : player: played "Gerua.mp3"
+Jan 21 18:55 : player: played "Muskuraane.mp3"
+Jan 21 18:55 : exception: Not playing
+Jan 21 18:55 : exception: Not playing
+Jan 21 21:17 : player: played "Muskuraane.mp3"
+Jan 21 23:21 : player: played "Dhadak.mp3"
+Jan 22 00:40 : player: played "Dhadak.mp3"
+Jan 22 00:44 : player: played "Nazm_Nazm.mp3"
+Jan 22 00:48 : player: played "aisa_kyun_maa.mp3"
+Jan 22 00:52 : player: played "Kaun_Tujhe.mp3"
+Jan 22 00:55 : player: played "Uljhan.mp3"
+Jan 22 00:58 : player: played "Alag_Aasmaan.mp3"
+Jan 22 01:02 : player: played "Heeriye.mp3"
+Jan 22 01:07 : player: played "Pal.mp3"
+Jan 22 01:30 : player: played "Rain Music.mp3"
+Jan 22 15:27 : player: played "Kaun_Tujhe.mp3"
+Jan 22 15:31 : player: played "Khulke_Jeene_Ka.mp3"
+Jan 22 15:42 : player: played "Kashmir .mp3"
+Jan 22 15:45 : player: played "Jeene_Laga_Hoon.mp3"
+Jan 22 17:37 : player: played "Sunn_Raha_Hai_Na_Tu.mp3"
+Jan 22 17:46 : player: played "Sunn_Raha_Hai_Na_Tu.mp3"
+Jan 22 22:28 : player: played "Alag_Aasmaan.mp3"
+Jan 23 14:01 : player: played "Phir_Bhi_Tumko_Chahunga.mp3"
+Jan 23 14:05 : player: played "Tu_Jo_Hai.mp3"
+Jan 23 14:09 : player: played "Asal_Mein.mp3"
+Jan 23 14:13 : player: played "Carmen-Habanera .mp3"
+Jan 23 16:10 : player: played "Main_Rang_Sharbaton_Ka.mp3"
+Jan 23 22:33 : player: played "Hume_Tumse_Pyaar_Kitna.mp3"
+Jan 24 12:30 : player: played "Jeena_Jeena.mp3"
+Jan 24 13:27 : player: played "aisa_kyun_maa.mp3"
+Jan 24 14:32 : player: played "Jotaros_Theme.mp3"
+Jan 24 15:40 : player: played "Pal.mp3"
+Jan 26 12:14 : player: played "Monta_Re.mp3"
+Jan 26 14:01 : player: played "Suno_Na_Sungemarmar.mp3"
+Jan 26 14:08 : player: played "YALGAAR.mp3"
+Jan 26 14:14 : player: played "Qaafirana.mp3"
+Jan 26 14:18 : player: played "Sawaar_Loon.mp3"
+Jan 26 14:23 : player: played "Mann_Jogiya.mp3"
+Jan 26 14:26 : player: played "Heeriye.mp3"
+Jan 26 14:29 : player: played "Let_Me_Down_Slowly.mp3"
+Jan 26 15:09 : player: played "Rondo Alla Turca (Turkish March).mp3"
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 26 20:25 : exception: Not playing
+Jan 27 21:50 : player: played "Sawan_Ka_Mahina.mp3"
+Jan 27 21:51 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jan 27 21:57 : player: played "Toota_Jo_Kabhi_Taara.mp3"
+Jan 27 22:03 : player: played "Symphony_No_5.mp3"
+Jan 27 22:05 : player: played "Oppenheimer_Theme.mp3"
+Jan 27 22:40 : player: played "Tera_Hone_Laga_Hoon.mp3"
+Jan 28 13:58 : player: played "Let_Me_Down_Slowly.mp3"
+Jan 28 14:09 : player: played "Maa.mp3"
+Jan 28 14:12 : player: played "Für_Elise.mp3"
+Jan 28 14:14 : player: played "Oppenheimer_Theme.mp3"
+Jan 28 14:18 : player: played "Haan_ke_Haan.mp3"
+Jan 28 14:25 : player: played "Moonlight_Sonata_3rd_Movement.mp3"
+Jan 28 14:29 : player: played "Jeena_Jeena.mp3"
+Jan 28 15:32 : player: played "Jotaros_Theme.mp3"
+Jan 28 17:00 : player: played "Sawaar_Loon.mp3"
+Jan 28 21:58 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Jan 28 22:48 : player: played "Baatein Ye kabhi na.mp3"
+Jan 29 15:34 : player: played "Sparkle.mp3"
+Jan 29 15:38 : player: played "Suzume_Theme_Song.mp3"
+Jan 29 15:43 : player: played "Tum_se.mp3"
+Jan 29 15:46 : player: played "FRIENDS.mp3"
+Jan 29 15:51 : player: played "Tujhe_Kitna_Chahne_Lage_Hum.mp3"
+Jan 29 15:54 : player: played "Dil_Diyan_Gallan.mp3"
+Jan 29 15:56 : player: played "Oppenheimer_Theme.mp3"
+Jan 29 16:01 : player: played "Maa.mp3"
+Jan 29 16:07 : player: played "Gaye_jaa.mp3"
+Jan 29 16:37 : player: played "No_Roots.mp3"
+Jan 29 16:42 : player: played "Thodi_Der.mp3"
+Jan 29 18:34 : player: played "Khulke_Jeene_Ka.mp3"
+Feb 04 14:30 : exception: Not playing
+Feb 04 14:30 : exception: Not playing
+Feb 07 15:42 : player: played "River_Flows_In_You.mp3"
+Feb 11 16:40 : player: played "3HourLofi.mp3"
+Feb 12 00:31 : player: played "3HourLofi.mp3"
+Feb 12 17:15 : player: played "Mein_Dhoondne_Ko_Zamaane_Mein.mp3"
+Feb 12 17:19 : player: played "Kaun_Tujhe.mp3"
+Feb 12 17:22 : player: played "Khamoshiyan.mp3"
+Feb 12 17:26 : player: played "Kabira.mp3"
+Feb 12 17:32 : player: played "Jotaros_Theme.mp3"
+Feb 12 17:37 : player: played "Moonlight_Sonata-Marcin.mp3"
+Feb 12 17:41 : player: played "Khulke_Jeene_Ka.mp3"
+Feb 12 17:46 : player: played "Thodi_Der.mp3"
+Feb 12 17:49 : player: played "Haan_ke_Haan.mp3"
+Feb 12 17:52 : player: played "Hedwigs_theme.mp3"
+Feb 12 17:58 : player: played "Tu_Hai_Ki_Nahi.mp3"
+Feb 12 18:01 : player: played "Heeriye.mp3"
+Feb 12 18:05 : player: played "Carmen-Habanera .mp3"
+Feb 12 18:08 : player: played "Sawan_Ka_Mahina.mp3"
+Feb 12 18:11 : player: played "Dil_Diyan_Gallan.mp3"
+Feb 12 18:14 : player: played "World's_Smallest_Violin.mp3"
+Feb 12 18:20 : player: played "Symphony_No_5.mp3"
+Feb 12 18:23 : player: played "Kabhi_Jo_Badal_Barse.mp3"
+Feb 12 18:28 : player: played "Gerua.mp3"
+Feb 12 18:31 : player: played "River_Flows_In_You.mp3"
+Feb 12 19:42 : player: played "Kaun_Tujhe.mp3"
+Feb 12 19:45 : player: played "Khamoshiyan.mp3"
+Feb 12 19:50 : player: played "Kabira.mp3"
+Feb 12 19:55 : player: played "Jotaros_Theme.mp3"
+Feb 12 20:00 : player: played "Moonlight_Sonata-Marcin.mp3"
+Feb 12 20:04 : player: played "Khulke_Jeene_Ka.mp3"
+Feb 12 20:09 : player: played "Thodi_Der.mp3"
+Feb 12 20:12 : player: played "Haan_ke_Haan.mp3"
+Feb 12 20:16 : player: played "Hedwigs_theme.mp3"
+Feb 12 20:21 : player: played "Tu_Hai_Ki_Nahi.mp3"
+Feb 12 20:24 : player: played "Heeriye.mp3"
+Feb 12 20:28 : player: played "Carmen-Habanera .mp3"
+Feb 12 20:31 : player: played "Sawan_Ka_Mahina.mp3"
+Feb 12 20:34 : player: played "Dil_Diyan_Gallan.mp3"
+Feb 12 20:38 : player: played "World's_Smallest_Violin.mp3"
+Feb 12 20:43 : player: played "Symphony_No_5.mp3"
+Feb 12 20:46 : player: played "Kabhi_Jo_Badal_Barse.mp3"
+Feb 12 20:51 : player: played "Gerua.mp3"
+Feb 12 20:54 : player: played "River_Flows_In_You.mp3"
+Feb 13 01:40 : player: played "Phir_Bhi_Tumko_Chahunga.mp3"
+Feb 15 10:31 : player: played "Enna_Sona.mp3"
+Feb 15 10:36 : player: played "Suzume_Theme_Song.mp3"
+Feb 15 11:04 : player: played "Hume_Tumse_Pyaar_Kitna.mp3"
+Feb 15 16:05 : player: played "Pal.mp3"
+Feb 15 16:09 : player: played "Monta_Re.mp3"
+Feb 15 16:13 : player: played "Kaun_Tujhe.mp3"
+Feb 15 16:26 : player: played "Pal_Pal_Dil_Ke_Paas.mp3"
+Feb 15 16:29 : player: played "Big_Dawgs.mp3"
+Feb 15 16:32 : player: played "Heeriye.mp3"
+Feb 15 16:34 : player: played "Muskuraane.mp3"
+Feb 16 02:08 : player: played "Bojhena Shey Bojhena.mp3"
+Feb 16 14:16 : exception: Not playing
+Feb 16 14:16 : exception: Not playing
+Feb 16 14:16 : exception: Not playing
+Feb 16 14:16 : exception: Not playing
+Feb 16 14:16 : exception: Not playing
+Feb 21 10:39 : player: played "Alag_Aasmaan.mp3"
+Feb 21 10:43 : player: played "It'll_Be_Okay.mp3"
+Feb 21 10:46 : player: played "Love_Nwantiti.mp3"
+Feb 21 10:50 : player: played "Main_Rang_Sharbaton_Ka.mp3"
+Feb 21 10:55 : player: played "Baarish.mp3"
+Feb 21 10:58 : player: played "Let_Me_Down_Slowly.mp3"
+Feb 21 11:01 : player: played "World's_Smallest_Violin.mp3"
+Feb 21 11:03 : player: played "Oppenheimer_Theme.mp3"
+Feb 21 11:07 : player: played "Hasi_Ban_Gaye.mp3"
+Feb 21 11:12 : player: played "Chahu_main_ya_na.mp3"
+Feb 21 11:17 : player: played "Suzume_Theme_Song.mp3"
+Feb 21 11:20 : player: played "Alag_Aasmaan.mp3"
+Feb 21 11:23 : player: played "Muskuraane.mp3"
+Feb 21 11:26 : player: played "Jeene_Laga_Hoon.mp3"
+Feb 21 11:31 : player: played "Piya_O_Re_Piya.mp3"
+Feb 21 11:34 : player: played "Teri_Meri_Preh_Kahani.mp3"
+Feb 21 11:37 : player: played "Sunn_Raha_Hai_Na_Tu.mp3"
+Feb 21 11:40 : player: played "Big_Dawgs.mp3"
+Feb 21 11:45 : player: played "Gerua.mp3"
+Feb 22 13:21 : player: played "It'll_Be_Okay.mp3"
+Feb 22 13:26 : player: played "Jo_Tum_Mere_Ho.mp3"
+Feb 22 13:30 : player: played "Kaun_Tujhe.mp3"
+Feb 22 13:32 : player: played "Uljhan.mp3"
+Feb 22 13:36 : player: played "Pal_Pal_Dil_Ke_Paas.mp3"
+Feb 22 13:44 : player: played "Moonlight_Sonata_3rd_Movement.mp3"
+Feb 22 13:48 : player: played "Suzume_Theme_Song.mp3"
+Feb 22 13:52 : player: played "Khulke_Jeene_Ka.mp3"
+Feb 22 13:55 : player: played "Naina.mp3"
+Feb 22 14:00 : player: played "Toota_Jo_Kabhi_Taara.mp3"
+Feb 22 14:03 : player: played "Khamoshiyan.mp3"
+Feb 22 14:07 : player: played "Kabira.mp3"
+Feb 22 14:12 : player: played "Nocture op 9 no.2 E Flat Major.mp3"
+Feb 22 14:20 : player: played "Gerua.mp3"
+Feb 22 14:24 : player: played "Hume_Tumse_Pyaar_Kitna.mp3"
+Feb 22 14:27 : player: played "Dil_Diyan_Gallan.mp3"
+Feb 22 14:32 : player: played "Baatein Ye kabhi na.mp3"
+Feb 22 14:36 : player: played "aisa_kyun_maa.mp3"
+Feb 22 14:41 : player: played "Galliyan.mp3"
+Feb 22 14:47 : player: played "Symphony_No_5.mp3"
+Feb 22 14:51 : player: played "It'll_Be_Okay.mp3"
+Feb 22 14:55 : player: played "Mein_Dhoondne_Ko_Zamaane_Mein.mp3"
+Feb 22 14:58 : player: played "Hedwigs_theme.mp3"
+Feb 22 15:01 : player: played "Let_Me_Down_Slowly.mp3"
+Feb 22 15:05 : player: played "Tu_Jo_Hai.mp3"
+Feb 22 15:08 : player: played "YALGAAR.mp3"
+Feb 22 15:13 : player: played "Mann_Jogiya.mp3"
+Feb 23 01:28 : player: played "Uljhan.mp3"
+Feb 23 01:32 : player: played "Kabira.mp3"
+Feb 23 01:35 : player: played "Dekhha_Tenu.mp3"
+Feb 23 01:37 : player: played "Kabhi_Jo_Badal_Barse.mp3"
+Feb 23 01:42 : player: played "Hasi_Ban_Gaye.mp3"
+Feb 23 11:45 : player: played "Jeene_Laga_Hoon.mp3"
+Feb 23 11:49 : player: played "Dil_Meri_Na_Sune.mp3"
+Feb 23 11:54 : player: played "Galliyan.mp3"
+Feb 23 12:00 : player: played "Gaye_jaa.mp3"
+Feb 23 12:03 : player: played "Teri_Meri_Preh_Kahani.mp3"
+Feb 23 12:07 : player: played "Hume_Tumse_Pyaar_Kitna.mp3"
+Feb 23 12:10 : player: played "Heeriye.mp3"
+Feb 23 13:42 : player: played "Kashmir .mp3"
+Feb 23 13:45 : player: played "Zara_Zara_Behekta_Hai.mp3"
+Feb 23 13:50 : player: played "Satranga.mp3"
+Feb 23 13:54 : player: played "Alag_Aasmaan.mp3"
+Feb 23 13:57 : player: played "Carmen-Habanera .mp3"
+Feb 23 21:52 : update: added /Tu_Hai_Toh_Mein_Hu.mp3
+Feb 24 02:54 : player: played "YALGAAR.mp3"
+Mar 01 00:10 : player: played "Uljhan.mp3"
+Mar 01 00:12 : player: played "Kabhi_Jo_Badal_Barse.mp3"
+Mar 01 00:15 : player: played "Hedwigs_theme.mp3"
+Mar 01 00:18 : player: played "World's_Smallest_Violin.mp3"
+Mar 01 00:21 : player: played "Dekhha_Tenu.mp3"
+Mar 01 00:25 : player: played "aisa_kyun_maa.mp3"
+Mar 01 00:30 : player: played "Tu_Hai_Toh_Mein_Hu.mp3"
+Mar 01 00:32 : player: played "Muskuraane.mp3"
+Mar 01 00:37 : player: played "Mere Naam Tu.mp3"
+Mar 01 00:42 : player: played "Tum_se.mp3"
+Mar 01 00:47 : player: played "Tera_Hone_Laga_Hoon.mp3"
+Mar 01 00:53 : player: played "Phir_Bhi_Tumko_Chahunga.mp3"
+Mar 01 00:56 : player: played "Heeriye.mp3"
+Mar 01 00:59 : player: played "Suno_Na_Sungemarmar.mp3"
+Mar 02 02:50 : player: played "3HourLofi.mp3"
+Mar 03 11:17 : player: played "Jo_Tum_Mere_Ho.mp3"
+Mar 03 19:20 : player: played "Tere_Mere.mp3"
+Mar 04 19:31 : player: played "Monta_Re.mp3"
+Mar 04 19:35 : player: played "Kasturi.mp3"
+Mar 04 19:39 : player: played "Bojhena Shey Bojhena.mp3"
+Mar 04 19:41 : player: played "Oppenheimer_Theme.mp3"
+Mar 04 19:44 : player: played "YALGAAR.mp3"
+Mar 04 19:50 : player: played "Qaafirana.mp3"
+Mar 04 22:30 : player: played "Pasoori.mp3"
+Mar 08 12:41 : player: played "Suno_Na_Sungemarmar.mp3"
+Mar 08 12:46 : player: played "Piya_O_Re_Piya.mp3"
+Mar 08 12:51 : player: played "Moonlight_Sonata-Marcin.mp3"
+Mar 08 12:56 : player: played "Khalasi.mp3"
+Mar 08 12:59 : player: played "Carmen-Habanera .mp3"
+Mar 08 13:04 : player: played "Hasi_Ban_Gaye.mp3"
+Mar 08 13:18 : player: played "Nazm_Nazm.mp3"
+Mar 08 13:23 : player: played "Shape_Of_You.mp3"
+Mar 08 13:26 : player: played "Khulke_Jeene_Ka.mp3"
+Mar 08 13:30 : player: played "Carmen-Habanera .mp3"
+Mar 08 13:32 : player: played "Kabhi_Jo_Badal_Barse.mp3"
+Mar 08 13:36 : player: played "Sawaar_Loon.mp3"
+Mar 08 13:39 : player: played "Muskuraane.mp3"
+Mar 08 13:44 : player: played "Pal.mp3"
+Mar 08 13:47 : player: played "Enna_Sona.mp3"
+Mar 08 13:52 : player: played "Mann_Jogiya.mp3"
+Mar 08 13:57 : player: played "Hamari_Adhuri_Kahani.mp3"
+Mar 08 14:01 : player: played "Jeene_Laga_Hoon.mp3"
+Mar 08 14:04 : player: played "Haan_ke_Haan.mp3"
+Mar 08 14:07 : player: played "Nadaaniyan.mp3"
+Mar 08 14:10 : player: played "Love_Nwantiti.mp3"
+Mar 08 14:12 : player: played "Oppenheimer_Theme.mp3"
+Mar 08 14:50 : player: played "Arcade.mp3"
+Mar 08 16:52 : player: played "Rondo Alla Turca (Turkish March).mp3"
+Mar 08 16:56 : player: played "Kasturi.mp3"
+Mar 08 17:03 : player: played "Sparkle.mp3"
+Mar 08 17:08 : player: played "Hamari_Adhuri_Kahani.mp3"
+Mar 08 17:11 : player: played "Sunn_Raha_Hai_Na_Tu.mp3"
+Mar 08 17:17 : player: played "Qaafirana.mp3"
+Mar 08 17:18 : update: updating /Tu_Hai_Toh_Mein_Hu.mp3
+Mar 08 17:19 : update: updating /Kasturi.mp3
+Mar 08 17:22 : player: played "Tu_Hai_Toh_Mein_Hu.mp3"
+Mar 08 17:27 : player: played "Mere Naam Tu.mp3"
+Mar 08 17:32 : player: played "Tujhe_Kitna_Chahne_Lage_Hum.mp3"
+Mar 08 17:36 : player: played "It'll_Be_Okay.mp3"
+Mar 08 17:40 : player: played "Nazm_Nazm.mp3"
+Mar 08 17:42 : player: played "Muskuraane.mp3"
+Mar 08 17:48 : player: played "Tu_Hai_Ki_Nahi.mp3"
+Mar 08 17:51 : player: played "Enna_Sona.mp3"
+Mar 08 17:54 : player: played "Für_Elise.mp3"
+Mar 08 17:58 : player: played "Dekhha_Tenu.mp3"
+Mar 08 18:00 : player: played "Kashmir .mp3"
+Mar 08 18:05 : player: played "Tu_Jo_Hai.mp3"
+Mar 08 18:09 : player: played "aisa_kyun_maa.mp3"
+Mar 08 22:19 : player: played "Rondo Alla Turca (Turkish March).mp3"
+Mar 08 22:24 : player: played "Kasturi.mp3"
+Mar 08 22:30 : player: played "Sparkle.mp3"
+Mar 08 22:36 : player: played "Hamari_Adhuri_Kahani.mp3"
+Mar 08 22:39 : player: played "Sunn_Raha_Hai_Na_Tu.mp3"
+Mar 08 22:45 : player: played "Qaafirana.mp3"
+Mar 09 00:05 : player: played "Tu_Hai_Toh_Mein_Hu.mp3"
+Mar 09 00:11 : player: played "Mere Naam Tu.mp3"
+Mar 09 00:15 : player: played "Tujhe_Kitna_Chahne_Lage_Hum.mp3"
+Mar 09 00:19 : player: played "It'll_Be_Okay.mp3"
+Mar 09 00:25 : player: played "Nazm_Nazm.mp3"
+Mar 09 00:28 : player: played "Muskuraane.mp3"
+Mar 09 00:33 : player: played "Tu_Hai_Ki_Nahi.mp3"
+Mar 09 00:37 : player: played "Enna_Sona.mp3"
+Mar 09 00:40 : player: played "Für_Elise.mp3"
+Mar 09 00:43 : player: played "Dekhha_Tenu.mp3"
+Mar 09 00:46 : player: played "Kashmir .mp3"
+Mar 09 01:43 : player: played "Tu_Jo_Hai.mp3"
+Mar 09 15:31 : player: played "Sawaar_Loon.mp3"
+Mar 09 15:35 : player: played "Haan_ke_Haan.mp3"
+Mar 09 16:20 : player: played "Geornos_Theme.mp3"
+Mar 09 16:24 : player: played "Tu_Hai_Toh_Mein_Hu.mp3"
+Mar 09 16:27 : player: played "Pal_Pal_Dil_Ke_Paas.mp3"
+Mar 09 16:33 : player: played "Hamari_Adhuri_Kahani.mp3"
+Mar 09 16:36 : player: played "Alag_Aasmaan.mp3"
+Mar 09 16:40 : player: played "Dekhha_Tenu.mp3"
+Mar 09 16:46 : player: played "Sparkle.mp3"
+Mar 09 17:11 : player: played "Khamoshiyan.mp3"
+Mar 10 02:08 : player: played "HUSN.mp3"
+Mar 13 18:28 : player: played "Phir_Bhi_Tumko_Chahunga.mp3"
+Mar 13 18:32 : player: played "Alag_Aasmaan.mp3"
+Mar 13 18:35 : player: played "Arcade.mp3"
+Mar 13 18:40 : player: played "Hasi_Ban_Gaye.mp3"
+Mar 13 18:43 : player: played "Carmen-Habanera .mp3"
+Mar 13 18:51 : player: played "Moonlight_Sonata_3rd_Movement.mp3"
+Mar 13 18:54 : player: played "FRIENDS.mp3"
+Mar 13 18:58 : player: played "Mann_Jogiya.mp3"
+Mar 13 19:01 : player: played "Nadaaniyan.mp3"
+Mar 13 19:04 : player: played "YALGAAR.mp3"
+Mar 13 19:09 : player: played "Bojhena Shey Bojhena.mp3"
+Mar 13 19:14 : player: played "Thodi_Der.mp3"
+Mar 13 19:17 : player: played "Let_Me_Down_Slowly.mp3"
+Mar 13 19:21 : player: played "The_Local_Train-Choo_Lo.mp3"
+Mar 13 19:25 : player: played "aisa_kyun_maa.mp3"
+Mar 13 19:30 : player: played "Tera_Hone_Laga_Hoon.mp3"
+Mar 13 19:34 : player: played "Dil_Meri_Na_Sune.mp3"
+Mar 13 19:39 : player: played "Maa.mp3"
+Mar 13 19:43 : player: played "Main_Rang_Sharbaton_Ka.mp3"
+Mar 13 19:47 : player: played "Baatein Ye kabhi na.mp3"
+Mar 14 17:48 : player: played "Muskuraane.mp3"
+Mar 14 17:51 : player: played "Kashmir .mp3"
+Mar 14 17:57 : player: played "Tu_Hai_Ki_Nahi.mp3"
+Mar 14 18:02 : player: played "Tujhe_Kitna_Chahne_Lage_Hum.mp3"
+Mar 14 18:08 : player: played "Moonlight_Sonata-Marcin.mp3"
+Mar 14 18:12 : player: played "Khalasi.mp3"
+Mar 14 18:18 : player: played "Mere Naam Tu.mp3"
+Mar 14 18:22 : player: played "Maa.mp3"
+Mar 14 18:26 : player: played "Alag_Aasmaan.mp3"
+Mar 14 18:31 : player: played "Toota_Jo_Kabhi_Taara.mp3"
+Mar 14 18:36 : player: played "Cornfield_Chase.mp3"
+Mar 14 18:42 : player: played "Tere_Mere.mp3"
+Mar 14 18:48 : player: played "Qaafirana.mp3"
+Mar 14 18:52 : player: played "Nazm_Nazm.mp3"
+Mar 14 18:56 : player: played "Carmen-Habanera .mp3"
+Mar 14 18:57 : player: played "Oppenheimer_Theme.mp3"
+Mar 14 19:02 : player: played "Mein_Dhoondne_Ko_Zamaane_Mein.mp3"
+Mar 14 19:06 : player: played "Kabira.mp3"
+Mar 14 19:09 : player: played "Big_Dawgs.mp3"
+Mar 14 19:16 : player: played "Sparkle.mp3"
+Mar 14 19:19 : player: played "Pal_Pal_Dil_Ke_Paas.mp3"
+Mar 14 19:23 : player: played "Enna_Sona.mp3"
+Mar 14 19:28 : player: played "Jotaros_Theme.mp3"
+Mar 14 19:32 : player: played "The_Local_Train-Choo_Lo.mp3"
+Mar 14 19:36 : player: played "Shape_Of_You.mp3"
+Mar 14 19:44 : player: played "Tu_Hai_Toh_Mein_Hu.mp3"
+Mar 14 19:48 : player: played "Zara_Zara_Behekta_Hai.mp3"
+Mar 14 19:51 : player: played "Uljhan.mp3"
+Mar 16 13:03 : player: played "Tere_Mere.mp3"
+Mar 16 13:06 : player: played "YALGAAR.mp3"
+Mar 16 13:10 : player: played "HUSN.mp3"
+Mar 16 13:15 : player: played "Suzume_Theme_Song.mp3"
+Mar 16 13:20 : player: played "Gerua.mp3"
+Mar 16 13:23 : player: played "Kashmir .mp3"
+Mar 16 13:26 : player: played "Sawan_Ka_Mahina.mp3"
+Mar 16 13:29 : player: played "Dil_Diyan_Gallan.mp3"
+Mar 16 13:33 : player: played "Mann_Jogiya.mp3"
+Mar 16 13:38 : player: played "Pasoori.mp3"
+Mar 16 13:42 : player: played "Mein_Dhoondne_Ko_Zamaane_Mein.mp3"
+Mar 16 13:48 : player: played "Banjaara.mp3"
+Mar 16 13:52 : player: played "Asal_Mein.mp3"
+Mar 16 13:56 : player: played "Sawaar_Loon.mp3"
+Mar 16 14:00 : player: played "Khulke_Jeene_Ka.mp3"
+Mar 16 14:05 : player: played "Hamari_Adhuri_Kahani.mp3"
+Mar 16 14:09 : player: played "The_Local_Train-Choo_Lo.mp3"
+Mar 16 14:12 : player: played "Für_Elise.mp3"
+Mar 16 14:51 : player: played "Nadaaniyan.mp3"
+Mar 16 14:57 : player: played "Galliyan.mp3"
+Mar 16 15:01 : player: played "Tum_se.mp3"
+Mar 16 15:39 : player: played "Tere_Mere.mp3"
+Mar 16 15:42 : player: played "YALGAAR.mp3"
+Mar 16 15:46 : player: played "HUSN.mp3"
+Mar 16 15:51 : player: played "Suzume_Theme_Song.mp3"
+Mar 16 15:55 : player: played "Gerua.mp3"
+Mar 16 15:58 : player: played "Kashmir .mp3"
+Mar 16 16:18 : player: played "Sawan_Ka_Mahina.mp3"
+Mar 16 16:21 : player: played "Dil_Diyan_Gallan.mp3"
+Mar 16 16:26 : player: played "Mann_Jogiya.mp3"
+Mar 16 16:30 : player: played "Pasoori.mp3"
+Mar 16 16:35 : player: played "Mein_Dhoondne_Ko_Zamaane_Mein.mp3"
+Mar 16 16:40 : player: played "Banjaara.mp3"
+Mar 16 16:44 : player: played "Asal_Mein.mp3"
+Mar 16 16:49 : player: played "Sawaar_Loon.mp3"
+Mar 16 16:52 : player: played "Khulke_Jeene_Ka.mp3"
+Mar 16 16:55 : player: played "Hamari_Adhuri_Kahani.mp3"
+Mar 16 16:55 : player: played "The_Local_Train-Choo_Lo.mp3"
+Mar 16 17:00 : player: played "Baatein Ye kabhi na.mp3"
+Mar 16 23:36 : player: played "Bojhena Shey Bojhena.mp3"
+Mar 18 19:04 : player: played "Kabhi_Jo_Badal_Barse.mp3"
+Mar 19 11:21 : player: played "La_Campanella.mp3"
+Mar 19 11:26 : player: played "Nocture op 9 no.2 E Flat Major.mp3"
+Mar 19 11:29 : player: played "Sun_Saathiya.mp3"
+Mar 19 15:08 : player: played "Zara_Zara_Behekta_Hai.mp3"
+Mar 19 15:12 : player: played "Zara_Zara_Behekta_Hai.mp3"
+Mar 19 15:16 : player: played "Tum_Hi_aana.mp3"
+Mar 19 15:19 : player: played "Sunn_Raha_Hai_Na_Tu.mp3"
+Mar 19 15:23 : player: played "Tum_se.mp3"
+Mar 19 15:27 : player: played "Main_Rang_Sharbaton_Ka.mp3"
+Mar 19 15:32 : player: played "Maa.mp3"
+Mar 19 15:38 : player: played "Gaye_jaa.mp3"
+Mar 19 16:53 : player: played "Rain Music.mp3"
+Mar 20 00:12 : player: played "River_Flows_In_You.mp3"
+Mar 20 00:16 : player: played "It'll_Be_Okay.mp3"
+Mar 20 00:18 : player: played "Uljhan.mp3"
+Mar 20 00:21 : player: played "Für_Elise.mp3"
+Mar 20 00:25 : player: played "YALGAAR.mp3"
+Mar 20 00:28 : player: played "Jeene_Laga_Hoon.mp3"
+Mar 20 00:32 : player: played "Jo_Tum_Mere_Ho.mp3"
+Mar 20 00:37 : player: played "Tujhe_Kitna_Chahne_Lage_Hum.mp3"
+Mar 20 00:40 : player: played "Nadaaniyan.mp3"
+Mar 20 00:45 : player: played "Bolo Na.mp3"
+Mar 20 00:47 : player: played "Oppenheimer_Theme.mp3"
+Mar 20 00:50 : player: played "Haan_ke_Haan.mp3"
+Mar 20 00:54 : player: played "Kaun_Tujhe.mp3"
+Mar 20 00:58 : player: played "Big_Dawgs.mp3"
+Mar 20 10:09 : player: played "Zara_Zara_Behekta_Hai.mp3"
+Mar 20 10:14 : player: played "Mann_Jogiya.mp3"
+Mar 20 10:18 : player: played "Kabira.mp3"
+Mar 20 10:21 : player: played "Dekhha_Tenu.mp3"
+Mar 20 10:25 : player: played "Nadaaniyan.mp3"
+Mar 20 10:31 : player: played "Qaafirana.mp3"
+Mar 20 10:35 : player: played "Bojhena Shey Bojhena.mp3"
+Mar 20 10:38 : player: played "Sunn_Raha_Hai_Na_Tu.mp3"
+Mar 20 10:41 : player: played "Khamoshiyan.mp3"
+Mar 20 10:45 : player: played "Jeene_Laga_Hoon.mp3"
+Mar 20 10:48 : player: played "Love_Nwantiti.mp3"
+Mar 20 10:50 : player: played "Teri_Meri_Preh_Kahani.mp3"
+Mar 20 14:58 : player: played "River_Flows_In_You.mp3"
+Mar 20 17:50 : player: played "Hedwigs_theme.mp3"
+Mar 20 17:54 : player: played "Tum_se.mp3"
+Mar 20 17:58 : player: played "Asal_Mein.mp3"
+Mar 20 18:02 : player: played "aisa_kyun_maa.mp3"
+Mar 20 18:07 : player: played "Tera_Hone_Laga_Hoon.mp3"
+Mar 20 18:11 : player: played "Sawan_Ka_Mahina.mp3"
+Mar 20 18:14 : player: played "Hume_Tumse_Pyaar_Kitna.mp3"
+Mar 20 18:20 : player: played "Nocture op 9 no.2 E Flat Major.mp3"
+Mar 20 18:25 : player: played "Cornfield_Chase.mp3"
+Mar 20 18:30 : player: played "Pal.mp3"
+Mar 20 18:35 : player: played "Toota_Jo_Kabhi_Taara.mp3"
+Mar 20 21:39 : player: played "3HourLofi.mp3"
+Mar 22 17:44 : player: played "No_Roots.mp3"
+Mar 22 17:47 : player: played "Khamoshiyan.mp3"
+Mar 22 17:53 : player: played "Mere Naam Tu.mp3"
+Mar 23 00:31 : player: played "Lofi_music_2_hours.mp3"
+2025-03-27T10:50:50 update: added /Für_Elise.mp3
+2025-03-27T10:50:50 update: added /Zara_Zara_Behekta_Hai.mp3
+2025-03-27T10:50:50 update: added /Sawan_Ka_Mahina.mp3
+2025-03-27T10:50:50 update: added /Nadaaniyan.mp3
+2025-03-27T10:50:50 update: added /Kaun_Tujhe.mp3
+2025-03-27T10:50:51 update: added /Tera_Hone_Laga_Hoon.mp3
+2025-03-27T10:50:51 update: added /Banjaara.mp3
+2025-03-27T10:50:51 update: added /Hasi_Ban_Gaye.mp3
+2025-03-27T10:50:51 update: added /Enna_Sona.mp3
+2025-03-27T10:50:51 update: added /No_Roots.mp3
+2025-03-27T10:50:51 update: added /Teri_Meri_Preh_Kahani.mp3
+2025-03-27T10:50:51 update: added /Jeena_Jeena.mp3
+2025-03-27T10:50:51 update: added /Toota_Jo_Kabhi_Taara.mp3
+2025-03-27T10:50:51 update: added /Satranga.mp3
+2025-03-27T10:50:51 update: added /Jotaros_Theme.mp3
+2025-03-27T10:50:51 update: added /Maa.mp3
+2025-03-27T10:50:51 update: added /Chahu_main_ya_na.mp3
+2025-03-27T10:50:51 update: added /Big_Dawgs.mp3
+2025-03-27T10:50:51 update: added /Hamari_Adhuri_Kahani.mp3
+2025-03-27T10:50:51 update: added /Khalasi.mp3
+2025-03-27T10:50:51 update: added /World's_Smallest_Violin.mp3
+2025-03-27T10:50:51 update: added /Pasoori.mp3
+2025-03-27T10:50:51 update: added /Suzume_Theme_Song.mp3
+2025-03-27T10:50:51 update: added /HUSN.mp3
+2025-03-27T10:50:51 update: added /StudyMusic.mp3
+2025-03-27T10:50:51 update: added /Shape_Of_You.mp3
+2025-03-27T10:50:51 update: added /Lofi_music_2_hours.mp3
+2025-03-27T10:50:51 update: added /Tere_Mere.mp3
+2025-03-27T10:50:51 update: added /Bolo Na.mp3
+2025-03-27T10:50:51 update: added /Tum_se.mp3
+2025-03-27T10:50:51 update: added /Mere Mehboob ｜ Vicky Vidya Ka Woh Wala Video ｜ Rajkummar ｜ Triptii Dimri ｜Sachin-Jigar,Shilpa,Sachet [UdsO4SM4wKI].mp3
+2025-03-27T10:50:51 update: added /Love_Nwantiti.mp3
+2025-03-27T10:50:51 update: added /Baarish.mp3
+2025-03-27T10:50:51 update: added /Pal.mp3
+2025-03-27T10:50:51 update: added /Nazm_Nazm.mp3
+2025-03-27T10:50:51 update: added /Qaafirana.mp3
+2025-03-27T10:50:51 update: added /Kabira.mp3
+2025-03-27T10:50:51 update: added /Symphony_No_5.mp3
+2025-03-27T10:50:51 update: added /Main_Rang_Sharbaton_Ka.mp3
+2025-03-27T10:50:51 update: added /Gerua.mp3
+2025-03-27T10:50:51 update: added /Jeene_Laga_Hoon.mp3
+2025-03-27T10:50:51 update: added /Mein_Dhoondne_Ko_Zamaane_Mein.mp3
+2025-03-27T10:50:51 update: added /Dhadak.mp3
+2025-03-27T10:50:51 update: added /Uljhan.mp3
+2025-03-27T10:50:51 update: added /Kashmir .mp3
+2025-03-27T10:50:51 update: added /Haan_ke_Haan.mp3
+2025-03-27T10:50:51 update: added /Kabhi_Jo_Badal_Barse.mp3
+2025-03-27T10:50:51 update: added /River_Flows_In_You.mp3
+2025-03-27T10:50:51 update: added /Moonlight_Sonata-Marcin.mp3
+2025-03-27T10:50:51 update: added /aisa_kyun_maa.mp3
+2025-03-27T10:50:51 update: added /Tu_Jo_Hai.mp3
+2025-03-27T10:50:51 update: added /Bojhena Shey Bojhena.mp3
+2025-03-27T10:50:51 update: added /Dekhha_Tenu.mp3
+2025-03-27T10:50:51 update: added /The_Local_Train-Choo_Lo.mp3
+2025-03-27T10:50:51 update: added /Asal_Mein.mp3
+2025-03-27T10:50:51 update: added /Muskuraane.mp3
+2025-03-27T10:50:51 update: added /Khulke_Jeene_Ka.mp3
+2025-03-27T10:50:51 update: added /It'll_Be_Okay.mp3
+2025-03-27T10:50:51 update: added /Dil_Diyan_Gallan.mp3
+2025-03-27T10:50:51 update: added /Hedwigs_theme.mp3
+2025-03-27T10:50:51 update: added /Kasturi.mp3
+2025-03-27T10:50:51 update: added /Arcade.mp3
+2025-03-27T10:50:51 update: added /Naina.mp3
+2025-03-27T10:50:51 update: added /Alag_Aasmaan.mp3
+2025-03-27T10:50:51 update: added /La_Campanella.mp3
+2025-03-27T10:50:51 update: added /Phir_Bhi_Tumko_Chahunga.mp3
+2025-03-27T10:50:51 update: added /Gaye_jaa.mp3
+2025-03-27T10:50:51 update: added /Monta_Re.mp3
+2025-03-27T10:50:51 update: added /Sawaar_Loon.mp3
+2025-03-27T10:50:51 update: added /Mere Naam Tu.mp3
+2025-03-27T10:50:51 update: added /Sun_Saathiya.mp3
+2025-03-27T10:50:51 update: added /Mann_Jogiya.mp3
+2025-03-27T10:50:51 update: added /Tu_Hai_Ki_Nahi.mp3
+2025-03-27T10:50:51 update: added /Galliyan.mp3
+2025-03-27T10:50:51 update: added /Piya_O_Re_Piya.mp3
+2025-03-27T10:50:51 update: added /Jo_Tum_Mere_Ho.mp3
+2025-03-27T10:50:51 update: added /Tu_Hai_Toh_Mein_Hu.mp3
+2025-03-27T10:50:51 update: added /Cornfield_Chase.mp3
+2025-03-27T10:50:51 update: added /Let_Me_Down_Slowly.mp3
+2025-03-27T10:50:51 update: added /Rondo Alla Turca (Turkish March).mp3
+2025-03-27T10:50:51 update: added /Pal_Pal_Dil_Ke_Paas.mp3
+2025-03-27T10:50:51 update: added /Heeriye.mp3
+2025-03-27T10:50:51 update: added /Baatein Ye kabhi na.mp3
+2025-03-27T10:50:51 update: added /Sunn_Raha_Hai_Na_Tu.mp3
+2025-03-27T10:50:51 update: added /FRIENDS.mp3
+2025-03-27T10:50:51 update: added /Khamoshiyan.mp3
+2025-03-27T10:50:51 update: added /Dil_Meri_Na_Sune.mp3
+2025-03-27T10:50:51 update: added /Oppenheimer_Theme.mp3
+2025-03-27T10:50:51 update: added /Carmen-Habanera .mp3
+2025-03-27T10:50:51 update: added /Tum_Hi_aana.mp3
+2025-03-27T10:50:51 update: added /YALGAAR.mp3
+2025-03-27T10:50:51 update: added /Suno_Na_Sungemarmar.mp3
+2025-03-27T10:50:52 update: added /Nocture op 9 no.2 E Flat Major.mp3
+2025-03-27T10:50:52 update: added /Tujhe_Kitna_Chahne_Lage_Hum.mp3
+2025-03-27T10:50:52 update: added /Geornos_Theme.mp3
+2025-03-27T10:50:52 update: added /Moonlight_Sonata_3rd_Movement.mp3
+2025-03-27T10:50:52 update: added /Thodi_Der.mp3
+2025-03-27T10:50:52 update: added /Digital_Caffeine.mp3
+2025-03-27T10:50:52 update: added /Hume_Tumse_Pyaar_Kitna.mp3
+2025-03-27T10:50:52 update: added /3HourLofi.mp3
+2025-03-27T10:50:52 update: added /Sparkle.mp3
+2025-03-27T10:50:52 update: added /Rain Music.mp3
+2025-03-28T00:21:17 player: played "3HourLofi.mp3"
+2025-03-29T00:16:00 player: played "Pal.mp3"
+2025-03-29T00:21:36 player: played "Mere Naam Tu.mp3"
+2025-03-29T00:25:30 player: played "Tum_Hi_aana.mp3"
+2025-03-29T00:28:57 player: played "Zara_Zara_Behekta_Hai.mp3"
+2025-03-29T00:31:59 player: played "Pal_Pal_Dil_Ke_Paas.mp3"
+2025-03-29T00:36:21 player: played "Tum_se.mp3"
+2025-03-29T00:40:18 player: played "Asal_Mein.mp3"
+2025-03-29T00:55:31 player: played "3HourLofi.mp3"
+2025-03-30T19:24:18 player: played "FRIENDS.mp3"
+2025-03-30T20:14:21 player: played "Teri_Meri_Preh_Kahani.mp3"
+2025-04-01T12:10:57 player: played "Kasturi.mp3"
+2025-04-01T12:14:16 player: played "Heeriye.mp3"
+2025-04-01T13:38:58 player: played "Pal.mp3"
+2025-04-02T00:14:58 player: played "Khalasi.mp3"
+2025-04-04T23:32:43 player: played "Mere Naam Tu.mp3"
+2025-04-04T23:35:27 player: played "Uljhan.mp3"
+2025-04-04T23:39:45 player: played "Jo_Tum_Mere_Ho.mp3"
+2025-04-04T23:44:31 player: played "Baarish.mp3"
+2025-04-04T23:48:54 player: played "Mein_Dhoondne_Ko_Zamaane_Mein.mp3"
+2025-04-04T23:52:12 player: played "Heeriye.mp3"
+2025-04-04T23:57:30 player: played "La_Campanella.mp3"
+2025-04-05T00:00:49 player: played "Jeene_Laga_Hoon.mp3"
+2025-04-05T00:04:21 player: played "Rondo Alla Turca (Turkish March).mp3"
+2025-04-05T00:06:11 player: played "Oppenheimer_Theme.mp3"
+2025-04-05T00:10:05 player: played "Hume_Tumse_Pyaar_Kitna.mp3"
+2025-04-05T00:15:50 player: played "Hamari_Adhuri_Kahani.mp3"
+2025-04-05T00:19:52 player: played "The_Local_Train-Choo_Lo.mp3"
+2025-04-05T00:24:25 player: played "Hasi_Ban_Gaye.mp3"
+2025-04-05T00:26:53 player: played "Suno_Na_Sungemarmar.mp3"
+2025-04-05T00:31:16 player: played "Shape_Of_You.mp3"
+2025-04-05T00:35:14 player: played "aisa_kyun_maa.mp3"
+2025-04-05T00:41:15 player: played "Phir_Bhi_Tumko_Chahunga.mp3"
+2025-04-05T00:46:02 player: played "Cornfield_Chase.mp3"
+2025-04-06T23:11:19 player: played "Dil_Diyan_Gallan.mp3"
+2025-04-06T23:15:51 player: played "Satranga.mp3"
+2025-04-06T23:20:04 player: played "Sawaar_Loon.mp3"
+2025-04-06T23:22:32 player: played "Suno_Na_Sungemarmar.mp3"
+2025-04-06T23:26:00 player: played "Carmen-Habanera .mp3"
+2025-04-06T23:31:58 player: played "Symphony_No_5.mp3"
+2025-04-06T23:35:12 player: played "YALGAAR.mp3"
+2025-04-06T23:38:39 player: played "Haan_ke_Haan.mp3"
+2025-04-06T23:42:36 player: played "Asal_Mein.mp3"
+2025-04-06T23:47:31 player: played "Pal.mp3"
+2025-04-06T23:50:44 player: played "Naina.mp3"
+2025-04-06T23:53:47 player: played "Pal_Pal_Dil_Ke_Paas.mp3"
+2025-04-06T23:57:46 player: played "HUSN.mp3"
+2025-04-07T00:02:56 player: played "Piya_O_Re_Piya.mp3"
+2025-04-07T00:08:11 player: played "Thodi_Der.mp3"
+2025-04-07T00:12:47 player: played "Pasoori.mp3"
+2025-04-07T02:20:22 player: played "Tere_Mere.mp3"
+2025-04-12T00:20:44 player: played "Alag_Aasmaan.mp3"
+2025-04-12T00:24:55 player: played "It'll_Be_Okay.mp3"
+2025-04-12T00:29:08 player: played "Kasturi.mp3"
+2025-04-12T00:32:33 player: played "Khulke_Jeene_Ka.mp3"
+2025-04-12T00:36:42 player: played "Tu_Hai_Toh_Mein_Hu.mp3"
+2025-04-26T21:31:29 exception: inotify_add_watch("/home/shibam/Music/MySongs") failed: No such file or directory
+2025-04-26T21:38:11 exception: Failed to open /home/shibam/Music/MySongs/Playlists: No such file or directory
+2025-04-26T21:38:13 exception: Failed to decode "/home/shibam/Music/MySongs/Carmen-Habanera .mp3"; Failed to open "/home/shibam/Music/MySongs/Carmen-Habanera .mp3": No such file or directory
+2025-04-26T21:38:13 player: played "Carmen-Habanera .mp3"
+2025-04-26T21:38:17 exception: Failed to decode "/home/shibam/Music/MySongs/Chahu_main_ya_na.mp3"; Failed to open "/home/shibam/Music/MySongs/Chahu_main_ya_na.mp3": No such file or directory
+2025-04-26T21:38:17 player: played "Chahu_main_ya_na.mp3"
+2025-04-26T21:38:18 exception: Failed to decode "/home/shibam/Music/MySongs/Carmen-Habanera .mp3"; Failed to open "/home/shibam/Music/MySongs/Carmen-Habanera .mp3": No such file or directory
+2025-04-26T21:38:18 player: played "Carmen-Habanera .mp3"
+2025-04-26T21:38:18 exception: Failed to decode "/home/shibam/Music/MySongs/Chahu_main_ya_na.mp3"; Failed to open "/home/shibam/Music/MySongs/Chahu_main_ya_na.mp3": No such file or directory
+2025-04-26T21:38:18 player: played "Chahu_main_ya_na.mp3"
+2025-04-26T21:54:11 exception: inotify_add_watch("/home/shibam/Music/MySongs") failed: No such file or directory
+2025-04-27T09:49:33 exception: inotify_add_watch("/home/shibam/Music/MySongs") failed: No such file or directory
+2025-04-27T12:32:27 exception: inotify_add_watch("/home/shibam/Music/MySongs") failed: No such file or directory
+2025-04-27T13:30:54 exception: Failed to open /home/shibam/Music/MySongs/Playlists: No such file or directory
+2025-04-27T13:30:55 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:30:55 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:30:59 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:30:59 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:31:05 exception: Failed to access /home/shibam/Music/MySongs: No such file or directory
+2025-04-27T13:31:07 exception: Failed to access /home/shibam/Music/MySongs: No such file or directory
+2025-04-27T13:31:07 exception: Failed to access /home/shibam/Music/MySongs: No such file or directory
+2025-04-27T13:31:07 exception: Failed to access /home/shibam/Music/MySongs: No such file or directory
+2025-04-27T13:31:07 exception: Failed to access /home/shibam/Music/MySongs: No such file or directory
+2025-04-27T13:31:09 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:31:09 player: played "Big_Dawgs.mp3"
+2025-04-27T13:31:09 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:31:09 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:31:11 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:31:11 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:31:11 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:31:11 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:31:11 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:31:11 player: played "Big_Dawgs.mp3"
+2025-04-27T13:32:02 exception: Failed to access /home/shibam/Music/MySongs: No such file or directory
+2025-04-27T13:32:41 exception: Failed to open /home/shibam/Music/MySongs/Playlists: No such file or directory
+2025-04-27T13:32:43 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:32:43 player: played "Arcade.mp3"
+2025-04-27T13:32:43 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:32:43 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:32:43 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:32:43 player: played "Big_Dawgs.mp3"
+2025-04-27T13:32:43 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:32:43 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:32:45 exception: Failed to access /home/shibam/Music/MySongs: No such file or directory
+2025-04-27T13:32:49 exception: Failed to access /home/shibam/Music/MySongs: No such file or directory
+2025-04-27T13:33:52 exception: Failed to access /home/shibam/Music/MySongs: No such file or directory
+2025-04-27T13:34:00 exception: Failed to open /home/shibam/Music/MySongs/Playlists: No such file or directory
+2025-04-27T13:34:02 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:34:02 player: played "Arcade.mp3"
+2025-04-27T13:34:02 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:34:02 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:34:02 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:34:02 player: played "Big_Dawgs.mp3"
+2025-04-27T13:34:02 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:34:02 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:34:03 exception: Failed to decode "/home/shibam/Music/MySongs/Asal_Mein.mp3"; Failed to open "/home/shibam/Music/MySongs/Asal_Mein.mp3": No such file or directory
+2025-04-27T13:34:03 player: played "Asal_Mein.mp3"
+2025-04-27T13:34:03 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:34:03 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:34:03 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:34:03 player: played "Big_Dawgs.mp3"
+2025-04-27T13:34:03 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:34:03 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:34:03 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:34:03 player: played "Arcade.mp3"
+2025-04-27T13:34:03 exception: Failed to decode "/home/shibam/Music/MySongs/Baarish.mp3"; Failed to open "/home/shibam/Music/MySongs/Baarish.mp3": No such file or directory
+2025-04-27T13:34:03 player: played "Baarish.mp3"
+2025-04-27T13:34:03 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:34:03 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:34:03 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:34:03 player: played "Big_Dawgs.mp3"
+2025-04-27T13:34:03 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:34:03 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:34:03 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:34:03 player: played "Arcade.mp3"
+2025-04-27T13:34:03 exception: Failed to decode "/home/shibam/Music/MySongs/Asal_Mein.mp3"; Failed to open "/home/shibam/Music/MySongs/Asal_Mein.mp3": No such file or directory
+2025-04-27T13:34:03 player: played "Asal_Mein.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3"; Failed to open "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Baatein Ye kabhi na.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Big_Dawgs.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Arcade.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Asal_Mein.mp3"; Failed to open "/home/shibam/Music/MySongs/Asal_Mein.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Asal_Mein.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Baarish.mp3"; Failed to open "/home/shibam/Music/MySongs/Baarish.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Baarish.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Banjaara.mp3"; Failed to open "/home/shibam/Music/MySongs/Banjaara.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Banjaara.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Big_Dawgs.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Arcade.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Asal_Mein.mp3"; Failed to open "/home/shibam/Music/MySongs/Asal_Mein.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Asal_Mein.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Baarish.mp3"; Failed to open "/home/shibam/Music/MySongs/Baarish.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Baarish.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3"; Failed to open "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Baatein Ye kabhi na.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Banjaara.mp3"; Failed to open "/home/shibam/Music/MySongs/Banjaara.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Banjaara.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Big_Dawgs.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Arcade.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Asal_Mein.mp3"; Failed to open "/home/shibam/Music/MySongs/Asal_Mein.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Asal_Mein.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Baarish.mp3"; Failed to open "/home/shibam/Music/MySongs/Baarish.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Baarish.mp3"
+2025-04-27T13:34:04 exception: Failed to decode "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3"; Failed to open "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3": No such file or directory
+2025-04-27T13:34:04 player: played "Baatein Ye kabhi na.mp3"
+2025-04-27T13:34:05 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:34:05 player: played "Big_Dawgs.mp3"
+2025-04-27T13:34:05 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:34:05 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:34:05 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:34:05 player: played "Arcade.mp3"
+2025-04-27T13:34:05 exception: Failed to decode "/home/shibam/Music/MySongs/Asal_Mein.mp3"; Failed to open "/home/shibam/Music/MySongs/Asal_Mein.mp3": No such file or directory
+2025-04-27T13:34:05 player: played "Asal_Mein.mp3"
+2025-04-27T13:34:05 exception: Failed to decode "/home/shibam/Music/MySongs/Baarish.mp3"; Failed to open "/home/shibam/Music/MySongs/Baarish.mp3": No such file or directory
+2025-04-27T13:34:05 player: played "Baarish.mp3"
+2025-04-27T13:34:05 exception: Failed to decode "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3"; Failed to open "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3": No such file or directory
+2025-04-27T13:34:05 player: played "Baatein Ye kabhi na.mp3"
+2025-04-27T13:34:05 exception: Failed to decode "/home/shibam/Music/MySongs/Banjaara.mp3"; Failed to open "/home/shibam/Music/MySongs/Banjaara.mp3": No such file or directory
+2025-04-27T13:34:05 player: played "Banjaara.mp3"
+2025-04-27T13:34:05 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:34:05 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:37:17 exception: Failed to open /home/shibam/Music/MySongs/Playlists: No such file or directory
+2025-04-27T13:37:18 exception: Failed to decode "/home/shibam/Music/MySongs/aisa_kyun_maa.mp3"; Failed to open "/home/shibam/Music/MySongs/aisa_kyun_maa.mp3": No such file or directory
+2025-04-27T13:37:18 player: played "aisa_kyun_maa.mp3"
+2025-04-27T13:37:18 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:37:18 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:37:18 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:37:18 player: played "Big_Dawgs.mp3"
+2025-04-27T13:37:18 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:37:18 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:37:18 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:37:18 player: played "Arcade.mp3"
+2025-04-27T13:37:18 exception: Failed to decode "/home/shibam/Music/MySongs/Asal_Mein.mp3"; Failed to open "/home/shibam/Music/MySongs/Asal_Mein.mp3": No such file or directory
+2025-04-27T13:37:18 player: played "Asal_Mein.mp3"
+2025-04-27T13:37:18 exception: Failed to decode "/home/shibam/Music/MySongs/Baarish.mp3"; Failed to open "/home/shibam/Music/MySongs/Baarish.mp3": No such file or directory
+2025-04-27T13:37:18 player: played "Baarish.mp3"
+2025-04-27T13:37:18 exception: Failed to decode "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3"; Failed to open "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3": No such file or directory
+2025-04-27T13:37:18 player: played "Baatein Ye kabhi na.mp3"
+2025-04-27T13:37:18 exception: Failed to decode "/home/shibam/Music/MySongs/Banjaara.mp3"; Failed to open "/home/shibam/Music/MySongs/Banjaara.mp3": No such file or directory
+2025-04-27T13:37:18 player: played "Banjaara.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Big_Dawgs.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Arcade.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Asal_Mein.mp3"; Failed to open "/home/shibam/Music/MySongs/Asal_Mein.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Asal_Mein.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Baarish.mp3"; Failed to open "/home/shibam/Music/MySongs/Baarish.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Baarish.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3"; Failed to open "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Baatein Ye kabhi na.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Banjaara.mp3"; Failed to open "/home/shibam/Music/MySongs/Banjaara.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Banjaara.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/aisa_kyun_maa.mp3"; Failed to open "/home/shibam/Music/MySongs/aisa_kyun_maa.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "aisa_kyun_maa.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Arcade.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Asal_Mein.mp3"; Failed to open "/home/shibam/Music/MySongs/Asal_Mein.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Asal_Mein.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Baarish.mp3"; Failed to open "/home/shibam/Music/MySongs/Baarish.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Baarish.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3"; Failed to open "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Baatein Ye kabhi na.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Banjaara.mp3"; Failed to open "/home/shibam/Music/MySongs/Banjaara.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Banjaara.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/aisa_kyun_maa.mp3"; Failed to open "/home/shibam/Music/MySongs/aisa_kyun_maa.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "aisa_kyun_maa.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Big_Dawgs.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Asal_Mein.mp3"; Failed to open "/home/shibam/Music/MySongs/Asal_Mein.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Asal_Mein.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Baarish.mp3"; Failed to open "/home/shibam/Music/MySongs/Baarish.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Baarish.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3"; Failed to open "/home/shibam/Music/MySongs/Baatein Ye kabhi na.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Baatein Ye kabhi na.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Banjaara.mp3"; Failed to open "/home/shibam/Music/MySongs/Banjaara.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Banjaara.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/aisa_kyun_maa.mp3"; Failed to open "/home/shibam/Music/MySongs/aisa_kyun_maa.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "aisa_kyun_maa.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3"; Failed to open "/home/shibam/Music/MySongs/Alag_Aasmaan.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Alag_Aasmaan.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Big_Dawgs.mp3"; Failed to open "/home/shibam/Music/MySongs/Big_Dawgs.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Big_Dawgs.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3"; Failed to open "/home/shibam/Music/MySongs/Bojhena Shey Bojhena.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Bojhena Shey Bojhena.mp3"
+2025-04-27T13:37:19 exception: Failed to decode "/home/shibam/Music/MySongs/Arcade.mp3"; Failed to open "/home/shibam/Music/MySongs/Arcade.mp3": No such file or directory
+2025-04-27T13:37:19 player: played "Arcade.mp3"
+2025-04-27T13:37:31 update: added /Sparkle.mp3
+2025-04-27T13:37:31 update: added /Dekhha_Tenu.mp3
+2025-04-27T13:37:31 update: added /Pal_Pal_Dil_Ke_Paas.mp3
+2025-04-27T13:37:31 update: added /Rondo Alla Turca (Turkish March).mp3
+2025-04-27T13:37:31 update: added /Alag_Aasmaan.mp3
+2025-04-27T13:37:31 update: added /Asal_Mein.mp3
+2025-04-27T13:37:31 update: added /aisa_kyun_maa.mp3
+2025-04-27T13:37:31 update: added /Maa.mp3
+2025-04-27T13:37:31 update: added /It'll_Be_Okay.mp3
+2025-04-27T13:37:31 update: added /Hamari_Adhuri_Kahani.mp3
+2025-04-27T13:37:31 update: added /Pal.mp3
+2025-04-27T13:37:31 update: added /Baatein Ye kabhi na.mp3
+2025-04-27T13:37:31 update: added /Nocture op 9 no.2 E Flat Major.mp3
+2025-04-27T13:37:31 update: added /Tu_Jo_Hai.mp3
+2025-04-27T13:37:31 update: added /Geornos_Theme.mp3
+2025-04-27T13:37:31 update: added /Big_Dawgs.mp3
+2025-04-27T13:37:31 update: added /Love_Nwantiti.mp3
+2025-04-27T13:37:31 update: added /HUSN.mp3
+2025-04-27T13:37:31 update: added /Moonlight_Sonata_3rd_Movement.mp3
+2025-04-27T13:37:31 update: added /Uljhan.mp3
+2025-04-27T13:37:31 update: added /Heeriye.mp3
+2025-04-27T13:37:31 update: added /World's_Smallest_Violin.mp3
+2025-04-27T13:37:31 update: added /Main_Rang_Sharbaton_Ka.mp3
+2025-04-27T13:37:31 update: added /Phir_Bhi_Tumko_Chahunga.mp3
+2025-04-27T13:37:31 update: added /Mein_Dhoondne_Ko_Zamaane_Mein.mp3
+2025-04-27T13:37:31 update: added /Piya_O_Re_Piya.mp3
+2025-04-27T13:37:31 update: added /Naina.mp3
+2025-04-27T13:37:31 update: added /Tujhe_Kitna_Chahne_Lage_Hum.mp3
+2025-04-27T13:37:31 update: added /StudyMusic.mp3
+2025-04-27T13:37:31 update: added /Moonlight_Sonata-Marcin.mp3
+2025-04-27T13:37:31 update: added /Rain Music.mp3
+2025-04-27T13:37:31 update: added /Khamoshiyan.mp3
+2025-04-27T13:37:31 update: added /River_Flows_In_You.mp3
+2025-04-27T13:37:31 update: added /Jotaros_Theme.mp3
+2025-04-27T13:37:31 update: added /Dil_Meri_Na_Sune.mp3
+2025-04-27T13:37:31 update: added /Tum_Hi_aana.mp3
+2025-04-27T13:37:31 update: added /Sawan_Ka_Mahina.mp3
+2025-04-27T13:37:31 update: added /Chahu_main_ya_na.mp3
+2025-04-27T13:37:31 update: added /Carmen-Habanera .mp3
+2025-04-27T13:37:31 update: added /Cornfield_Chase.mp3
+2025-04-27T13:37:31 update: added /No_Roots.mp3
+2025-04-27T13:37:31 update: added /Suzume_Theme_Song.mp3
+2025-04-27T13:37:31 update: added /Enna_Sona.mp3
+2025-04-27T13:37:31 update: added /Dil_Diyan_Gallan.mp3
+2025-04-27T13:37:31 update: added /Dhadak.mp3
+2025-04-27T13:37:31 update: added /Muskuraane.mp3
+2025-04-27T13:37:31 update: added /Symphony_No_5.mp3
+2025-04-27T13:37:31 update: added /YALGAAR.mp3
+2025-04-27T13:37:31 update: added /Monta_Re.mp3
+2025-04-27T13:37:31 update: added /Galliyan.mp3
+2025-04-27T13:37:31 update: added /Toota_Jo_Kabhi_Taara.mp3
+2025-04-27T13:37:31 update: added /Sunn_Raha_Hai_Na_Tu.mp3
+2025-04-27T13:37:31 update: added /Gaye_jaa.mp3
+2025-04-27T13:37:31 update: added /The_Local_Train-Choo_Lo.mp3
+2025-04-27T13:37:31 update: added /Kabira.mp3
+2025-04-27T13:37:31 update: added /Für_Elise.mp3
+2025-04-27T13:37:31 update: added /Tera_Hone_Laga_Hoon.mp3
+2025-04-27T13:37:31 update: added /Tum_se.mp3
+2025-04-27T13:37:31 update: added /Tu_Hai_Ki_Nahi.mp3
+2025-04-27T13:37:31 update: added /Nazm_Nazm.mp3
+2025-04-27T13:37:31 update: added /Oppenheimer_Theme.mp3
+2025-04-27T13:37:31 update: added /Arcade.mp3
+2025-04-27T13:37:31 update: added /Hasi_Ban_Gaye.mp3
+2025-04-27T13:37:31 update: added /Kashmir .mp3
+2025-04-27T13:37:31 update: added /Jo_Tum_Mere_Ho.mp3
+2025-04-27T13:37:31 update: added /Mann_Jogiya.mp3
+2025-04-27T13:37:31 update: added /Let_Me_Down_Slowly.mp3
+2025-04-27T13:37:31 update: added /Khulke_Jeene_Ka.mp3
+2025-04-27T13:37:31 update: added /Nadaaniyan.mp3
+2025-04-27T13:37:31 update: added /Hedwigs_theme.mp3
+2025-04-27T13:37:31 update: added /Hume_Tumse_Pyaar_Kitna.mp3
+2025-04-27T13:37:31 update: added /Zara_Zara_Behekta_Hai.mp3
+2025-04-27T13:37:31 update: added /Kaun_Tujhe.mp3
+2025-04-27T13:37:31 update: added /Kasturi.mp3
+2025-04-27T13:37:31 update: added /Tere_Mere.mp3
+2025-04-27T13:37:31 update: added /Suno_Na_Sungemarmar.mp3
+2025-04-27T13:37:31 update: added /Mere Mehboob ｜ Vicky Vidya Ka Woh Wala Video ｜ Rajkummar ｜ Triptii Dimri ｜Sachin-Jigar,Shilpa,Sachet [UdsO4SM4wKI].mp3
+2025-04-27T13:37:31 update: added /Baarish.mp3
+2025-04-27T13:37:31 update: added /La_Campanella.mp3
+2025-04-27T13:37:31 update: added /Kabhi_Jo_Badal_Barse.mp3
+2025-04-27T13:37:31 update: added /FRIENDS.mp3
+2025-04-27T13:37:32 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-04-27T13:37:32 ffmpeg/vobsub: Unable to open confB/xournalpp/plugins/Pen-GUI-n/.git/objects/pack/pack-858fac44ca702ec009e2507146e6bdb9ae49fd28.sub as MPEG subtitles
+2025-04-27T13:37:32 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-04-27T13:37:32 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-5636608cdee5d2f9ef0f02d6d4ca45df7b97dd25.sub as MPEG subtitles
+2025-04-27T13:37:32 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-04-27T13:37:32 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-c0f5a92ee951ca80b02225c82abbbe5f9fe1e906.sub as MPEG subtitles
+2025-04-27T13:37:32 update: added .Trash-1000/files/Digital_Caffeine.mp3
+2025-04-27T13:37:32 update: added .Trash-1000/files/3HourLofi.mp3
+2025-04-27T13:37:32 update: added /Thodi_Der.mp3
+2025-04-27T13:37:32 update: added /Haan_ke_Haan.mp3
+2025-04-27T13:37:32 update: added /Pasoori.mp3
+2025-04-27T13:37:32 update: added /Qaafirana.mp3
+2025-04-27T13:37:32 update: added /Satranga.mp3
+2025-04-27T13:37:32 update: added /Bojhena Shey Bojhena.mp3
+2025-04-27T13:37:32 update: added /Tu_Hai_Toh_Mein_Hu.mp3
+2025-04-27T13:37:32 update: added /Mere Naam Tu.mp3
+2025-04-27T13:37:32 update: added /Bolo Na.mp3
+2025-04-27T13:37:32 update: added /Lofi_music_2_hours.mp3
+2025-04-27T13:37:32 update: added /Jeene_Laga_Hoon.mp3
+2025-04-27T13:37:32 update: added /Sun_Saathiya.mp3
+2025-04-27T13:37:32 update: added /Gerua.mp3
+2025-04-27T13:37:32 update: added /Banjaara.mp3
+2025-04-27T13:37:32 update: added /Jeena_Jeena.mp3
+2025-04-27T13:37:32 update: added /Teri_Meri_Preh_Kahani.mp3
+2025-04-27T13:37:32 update: added /Sawaar_Loon.mp3
+2025-04-27T13:37:32 update: added /Shape_Of_You.mp3
+2025-04-27T13:37:32 update: added /Khalasi.mp3
+2025-04-27T13:38:13 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-04-27T13:38:13 ffmpeg/vobsub: Unable to open confB/xournalpp/plugins/Pen-GUI-n/.git/objects/pack/pack-858fac44ca702ec009e2507146e6bdb9ae49fd28.sub as MPEG subtitles
+2025-04-27T13:38:13 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-04-27T13:38:13 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-5636608cdee5d2f9ef0f02d6d4ca45df7b97dd25.sub as MPEG subtitles
+2025-04-27T13:38:13 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-04-27T13:38:13 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-c0f5a92ee951ca80b02225c82abbbe5f9fe1e906.sub as MPEG subtitles
+                                                                                                                                                                                                                                                                                                                                                                                                                                       2025-04-28T10:26:48 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-04-28T10:26:48 ffmpeg/vobsub: Unable to open confB/xournalpp/plugins/Pen-GUI-n/.git/objects/pack/pack-858fac44ca702ec009e2507146e6bdb9ae49fd28.sub as MPEG subtitles
+2025-04-28T10:26:48 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-04-28T10:26:48 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-5636608cdee5d2f9ef0f02d6d4ca45df7b97dd25.sub as MPEG subtitles
+2025-04-28T10:26:48 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-04-28T10:26:48 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-c0f5a92ee951ca80b02225c82abbbe5f9fe1e906.sub as MPEG subtitles
+2025-04-28T22:14:17 player: played "Arcade.mp3"
+2025-05-02T00:52:19 player: played "Alag_Aasmaan.mp3"
+2025-05-02T09:57:11 player: played "Alag_Aasmaan.mp3"
+2025-05-02T17:25:50 player: played "Arcade.mp3"
+2025-05-04T00:20:42 player: played "Alag_Aasmaan.mp3"
+2025-05-11T01:16:30 player: played "Pal.mp3"
+2025-05-12T00:39:12 player: played "Hedwigs_theme.mp3"
+2025-05-12T16:36:10 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-05-12T16:36:10 ffmpeg/vobsub: Unable to open confB/xournalpp/plugins/Pen-GUI-n/.git/objects/pack/pack-858fac44ca702ec009e2507146e6bdb9ae49fd28.sub as MPEG subtitles
+2025-05-12T16:36:10 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-05-12T16:36:10 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-5636608cdee5d2f9ef0f02d6d4ca45df7b97dd25.sub as MPEG subtitles
+2025-05-12T16:36:10 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-05-12T16:36:10 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-c0f5a92ee951ca80b02225c82abbbe5f9fe1e906.sub as MPEG subtitles
+2025-05-12T16:36:10 update: added /FindingHer.mp3
+2025-05-12T16:36:11 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-05-12T16:36:11 ffmpeg/vobsub: Unable to open confB/xournalpp/plugins/Pen-GUI-n/.git/objects/pack/pack-858fac44ca702ec009e2507146e6bdb9ae49fd28.sub as MPEG subtitles
+2025-05-12T16:36:11 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-05-12T16:36:11 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-5636608cdee5d2f9ef0f02d6d4ca45df7b97dd25.sub as MPEG subtitles
+2025-05-12T16:36:11 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-05-12T16:36:11 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-c0f5a92ee951ca80b02225c82abbbe5f9fe1e906.sub as MPEG subtitles
+2025-05-12T16:39:47 player: played "FindingHer.mp3"
+2025-05-12T16:43:49 player: played "aisa_kyun_maa.mp3"
+2025-05-12T16:49:34 player: played "Hamari_Adhuri_Kahani.mp3"
+2025-05-12T16:52:47 player: played "Uljhan.mp3"
+2025-05-12T19:32:17 player: played "FindingHer.mp3"
+2025-05-12T19:36:15 player: played "aisa_kyun_maa.mp3"
+2025-05-12T19:42:01 player: played "Hamari_Adhuri_Kahani.mp3"
+2025-05-12T21:42:01 player: played "StudyMusic.mp3"
+2025-05-12T21:44:46 player: played "Uljhan.mp3"
+2025-05-12T21:49:09 player: played "Shape_Of_You.mp3"
+2025-05-12T21:52:23 player: played "YALGAAR.mp3"
+2025-05-12T21:58:06 player: played "Gaye_jaa.mp3"
+2025-05-12T22:01:21 player: played "Sun_Saathiya.mp3"
+2025-05-12T22:03:40 player: played "Muskuraane.mp3"
+2025-05-12T22:07:34 player: played "The_Local_Train-Choo_Lo.mp3"
+2025-05-12T22:11:27 player: played "No_Roots.mp3"
+2025-05-25T18:46:12 player: played "FindingHer.mp3"
+2025-06-05T21:24:49 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-05T21:24:49 ffmpeg/vobsub: Unable to open confB/xournalpp/plugins/Pen-GUI-n/.git/objects/pack/pack-858fac44ca702ec009e2507146e6bdb9ae49fd28.sub as MPEG subtitles
+2025-06-05T21:24:49 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-05T21:24:49 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-5636608cdee5d2f9ef0f02d6d4ca45df7b97dd25.sub as MPEG subtitles
+2025-06-05T21:24:49 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-05T21:24:49 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-c0f5a92ee951ca80b02225c82abbbe5f9fe1e906.sub as MPEG subtitles
+2025-06-08T14:22:06 player: played "HUSN.mp3"
+2025-06-08T14:26:01 player: played "Jeena_Jeena.mp3"
+2025-06-26T12:24:47 player: played "Bojhena Shey Bojhena.mp3"
+2025-06-26T13:59:08 player: played "Bolo Na.mp3"
+2025-06-26T14:03:24 player: played "Baatein Ye kabhi na.mp3"
+2025-06-27T16:12:53 player: played "Piya_O_Re_Piya.mp3"
+2025-06-27T16:15:58 player: played "Dil_Diyan_Gallan.mp3"
+2025-06-27T16:21:44 player: played "Hamari_Adhuri_Kahani.mp3"
+2025-06-27T16:25:17 player: played "FindingHer.mp3"
+2025-06-27T18:38:56 player: played "Sunn_Raha_Hai_Na_Tu.mp3"
+2025-06-28T10:12:22 player: played "Baatein Ye kabhi na.mp3"
+2025-06-28T10:12:36 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-28T10:12:36 ffmpeg/vobsub: Unable to open confB/xournalpp/plugins/Pen-GUI-n/.git/objects/pack/pack-858fac44ca702ec009e2507146e6bdb9ae49fd28.sub as MPEG subtitles
+2025-06-28T10:12:36 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-28T10:12:36 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-5636608cdee5d2f9ef0f02d6d4ca45df7b97dd25.sub as MPEG subtitles
+2025-06-28T10:12:36 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-28T10:12:36 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-c0f5a92ee951ca80b02225c82abbbe5f9fe1e906.sub as MPEG subtitles
+2025-06-28T10:16:38 player: played "Alag_Aasmaan.mp3"
+2025-06-28T10:20:59 player: played "Tum_se.mp3"
+2025-06-28T10:24:35 player: played "River_Flows_In_You.mp3"
+2025-06-28T10:29:41 player: played "Bolo Na.mp3"
+2025-06-28T10:33:00 player: played "Heeriye.mp3"
+2025-06-28T10:36:05 player: played "Arcade.mp3"
+2025-06-28T10:40:38 player: played "Satranga.mp3"
+2025-06-28T10:45:10 player: played "Hasi_Ban_Gaye.mp3"
+2025-06-28T10:48:49 player: played "FindingHer.mp3"
+2025-06-28T10:53:00 player: played "Kabira.mp3"
+2025-06-28T10:57:46 player: played "Cornfield_Chase.mp3"
+2025-06-28T11:01:41 player: played "Monta_Re.mp3"
+2025-06-28T11:11:55 player: played "Symphony_No_5.mp3"
+2025-06-28T11:14:51 player: played "Love_Nwantiti.mp3"
+2025-06-28T11:19:03 player: played "Kasturi.mp3"
+2025-06-28T11:22:31 player: played "Sawan_Ka_Mahina.mp3"
+2025-06-28T11:27:16 player: played "Maa.mp3"
+2025-06-28T11:29:44 player: played "Suno_Na_Sungemarmar.mp3"
+2025-06-28T11:32:43 player: played "Kashmir .mp3"
+2025-06-28T11:56:53 player: played "Arcade.mp3"
+2025-06-28T12:00:39 player: played "Alag_Aasmaan.mp3"
+2025-06-28T12:05:01 player: played "Tum_se.mp3"
+2025-06-28T12:08:31 player: played "River_Flows_In_You.mp3"
+2025-06-28T12:13:36 player: played "Bolo Na.mp3"
+2025-06-28T12:16:55 player: played "Heeriye.mp3"
+2025-06-28T12:20:00 player: played "Arcade.mp3"
+2025-06-28T12:24:32 player: played "Satranga.mp3"
+2025-06-28T12:29:05 player: played "Hasi_Ban_Gaye.mp3"
+2025-06-28T12:32:43 player: played "FindingHer.mp3"
+2025-06-28T12:36:54 player: played "Kabira.mp3"
+2025-06-28T12:41:40 player: played "Cornfield_Chase.mp3"
+2025-06-28T12:45:35 player: played "Monta_Re.mp3"
+2025-06-28T13:36:44 output: Failed to play on "PipeWire Sound Server" (pipewire): connection error
+2025-06-28T13:36:44 exception: Failed to open audio output
+2025-06-28T13:36:44 player: played "Suzume_Theme_Song.mp3"
+2025-06-28T14:03:25 player: played "Tum_se.mp3"
+2025-06-28T14:07:10 player: played "Alag_Aasmaan.mp3"
+2025-06-28T14:13:11 player: played "Phir_Bhi_Tumko_Chahunga.mp3"
+2025-06-28T14:16:20 player: played "Hedwigs_theme.mp3"
+2025-06-28T14:21:28 player: played "Jotaros_Theme.mp3"
+2025-06-28T14:24:45 player: played "Khamoshiyan.mp3"
+2025-06-28T14:27:52 player: played "World's_Smallest_Violin.mp3"
+2025-06-28T14:59:53 player: played "Let_Me_Down_Slowly.mp3"
+2025-06-28T15:07:38 player: played "Suzume_Theme_Song.mp3"
+2025-06-28T15:13:21 player: played "Gaye_jaa.mp3"
+2025-06-28T15:18:57 player: played "Mere Naam Tu.mp3"
+2025-06-28T15:24:12 player: played "Thodi_Der.mp3"
+2025-06-28T15:27:08 player: played "Love_Nwantiti.mp3"
+2025-06-28T15:30:48 player: played "Enna_Sona.mp3"
+2025-06-28T15:34:15 player: played "FRIENDS.mp3"
+2025-06-28T19:42:28 player: played "Arcade.mp3"
+2025-06-28T19:49:11 player: played "Arcade.mp3"
+2025-06-28T19:49:17 exception: Not playing
+2025-06-28T19:53:38 player: played "Baatein Ye kabhi na.mp3"
+2025-06-28T19:56:54 player: played "Baarish.mp3"
+2025-06-28T19:58:08 player: played "aisa_kyun_maa.mp3"
+2025-06-29T10:20:19 player: played "Für_Elise.mp3"
+2025-06-29T10:23:21 player: played "Pal_Pal_Dil_Ke_Paas.mp3"
+2025-06-29T10:27:33 player: played "Kabira.mp3"
+2025-06-29T10:30:48 player: played "Sun_Saathiya.mp3"
+2025-06-29T10:38:23 player: played "Moonlight_Sonata_3rd_Movement.mp3"
+2025-06-29T10:43:40 player: played "La_Campanella.mp3"
+2025-06-29T10:44:06 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-29T10:44:06 ffmpeg/vobsub: Unable to open confB/xournalpp/plugins/Pen-GUI-n/.git/objects/pack/pack-858fac44ca702ec009e2507146e6bdb9ae49fd28.sub as MPEG subtitles
+2025-06-29T10:44:06 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-29T10:44:06 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-5636608cdee5d2f9ef0f02d6d4ca45df7b97dd25.sub as MPEG subtitles
+2025-06-29T10:44:06 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-29T10:44:06 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-c0f5a92ee951ca80b02225c82abbbe5f9fe1e906.sub as MPEG subtitles
+2025-06-29T10:45:37 update: updating /FindingHer.mp3
+2025-06-29T10:45:43 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-29T10:45:43 ffmpeg/vobsub: Unable to open confB/xournalpp/plugins/Pen-GUI-n/.git/objects/pack/pack-858fac44ca702ec009e2507146e6bdb9ae49fd28.sub as MPEG subtitles
+2025-06-29T10:45:43 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-29T10:45:43 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-5636608cdee5d2f9ef0f02d6d4ca45df7b97dd25.sub as MPEG subtitles
+2025-06-29T10:45:43 ffmpeg/vobsub: Format vobsub detected only with low score of 1, misdetection possible!
+2025-06-29T10:45:43 ffmpeg/vobsub: Unable to open confB/nvim/.git/objects/pack/pack-c0f5a92ee951ca80b02225c82abbbe5f9fe1e906.sub as MPEG subtitles
+Note: Illegal Audio-MPEG-Header 0x0a5b43a2 at offset 3883395.
+Note: Trying to resync...
+Note: Skipped 424 bytes in input.
+
+Warning: Encountered more data after announced end of track (frame 8151/8151). Frankenstein!
+2025-06-29T10:47:13 player: played "FindingHer.mp3"
+2025-06-29T10:50:18 player: played "Dil_Diyan_Gallan.mp3"
+2025-06-29T10:55:13 player: played "Geornos_Theme.mp3"
+2025-06-29T10:58:49 player: played "Dhadak.mp3"
+2025-06-29T11:04:50 player: played "Phir_Bhi_Tumko_Chahunga.mp3"
+2025-06-29T11:12:21 player: played "Nocture op 9 no.2 E Flat Major.mp3"
+2025-06-29T12:03:38 player: played "Muskuraane.mp3"
+2025-06-29T12:07:49 player: played "Kabira.mp3"
+2025-06-29T12:12:11 player: played "Dil_Meri_Na_Sune.mp3"
+2025-06-29T12:16:26 player: played "Baatein Ye kabhi na.mp3"
+2025-06-29T12:19:53 player: played "Zara_Zara_Behekta_Hai.mp3"
+2025-06-29T12:22:55 player: played "Pal_Pal_Dil_Ke_Paas.mp3"
+2025-06-29T12:27:00 player: played "Tu_Jo_Hai.mp3"
+2025-06-29T12:50:50 player: played "Teri_Meri_Preh_Kahani.mp3"
+2025-06-29T19:38:05 player: played "Rain Music.mp3"
+2025-06-29T20:17:54 player: played "Kasturi.mp3"
+2025-06-29T23:11:06 player: played "aisa_kyun_maa.mp3"

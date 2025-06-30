@@ -1,0 +1,46 @@
+#window{
+  background-color:transparent;
+}
+
+* {
+    color: #cdd6f4;
+    font-family: "Iosevka Nerd Font", sans-serif;
+    font-size: 16px;
+}
+
+entry {
+    background-color: #11111b;
+    color: #cdd6f4;
+    border: 1px solid #45475a;
+    padding: 6px;
+    border-radius: 6px;
+}
+
+row {
+    background-color: #1e1e2e;
+    color: #cdd6f4;
+    padding: 8px;
+    border-radius: 4px;
+    margin-bottom: 4px;
+}
+
+row:hover {
+    background-color: #313244;
+}
+
+row:focus {
+    background-color: #585b70;
+    outline: 2px solid #313244;
+}
+
+row:selected {
+    background-color: #313244;
+    color: #1e1e2e;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+image {
+    margin-right: 8px;
+}
+

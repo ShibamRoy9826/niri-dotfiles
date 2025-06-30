@@ -1,0 +1,119 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+      "type": "auto",
+      "source": "arch",      // Built-in logo name or file path
+      "width": 65,           // Width in characters (for image logos)
+      "height": 35,          // Height in characters (for image logos)
+      "padding": {
+          "top": 0,          // Top padding
+          "left": 0,         // Left padding
+          "right": 2         // Right padding
+      },
+      "color": {             // Override logo colors
+          "1":"#cba6f7",
+          "2": "blue"
+      }
+  },
+  "display": {
+      "separator": ":  ",
+      "color": {
+          "keys": "#f38ba8",
+          "title": "#cba6f7"
+      },
+      "key": {
+          "width": 5, 
+          "type": "string"   
+      },
+      "bar": {
+          "width": 50,      
+          "charElapsed": "■", 
+          "charTotal": "-"   
+      },
+      "percent": {
+          "type": 9,        
+          "color": {
+              "green": "green",
+              "yellow": "light_yellow",
+              "red": "light_red"
+          }
+      }
+  },
+  "modules": [
+    {
+      "type":"title",
+      "format":"                 {6}{7}{8}"
+    },
+    "break",
+    {
+      "type":"custom",
+      "format":"┌──────────────────────────────────────────────────┐"
+    }, 
+    {
+      "type":"os",
+      "key":" 󰣇 "
+    },
+    {
+      "type":"uptime",
+      "key":" 󱑎 "
+    },
+    {
+      "type":"packages",
+      "key":" 󰏓 "
+    },
+    {
+      "type":"wm",
+      "key":" 󰖯 "
+    },
+    {
+      "type":"theme",
+      "key":" 󰆊 "
+    },
+    {
+      "type":"terminal",
+      "key":" 󰆍 "
+    },
+    {
+      "type": "custom",
+      "format": "└──────────────────────────────────────────────────┘" 
+    },
+    {
+      "type":"custom",
+      "format":"┌──────────────────────────────────────────────────┐"
+    }, 
+    {
+      "type":"cpu",
+      "key":" 󰻠 ",
+      "keyColor":"blue"
+    },
+    {
+      "type":"gpu",
+      "key":" 󰢮 ",
+      "keyColor":"blue"
+    },
+    {
+      "type":"memory",
+      "key":" 󰍛 ",
+      "keyColor":"blue",
+      "percent":{
+        "type":1,
+        "green":30,
+        "yellow":70
+      }
+    },
+    {
+      "type": "custom",
+      "format": "└───────────────────────────────────────────────────┘" 
+    },
+    "break",
+{
+      "type": "colors",
+      "paddingLeft": 17,
+      "symbol": "circle",
+      "block": {
+        "width": 10
+      }
+    }
+  ]
+}
+
