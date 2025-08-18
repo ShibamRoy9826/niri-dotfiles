@@ -21,6 +21,13 @@ I tried to keep it minimal while being functional, and ofcourse all in dark colo
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
 - [mpd](https://wiki.archlinux.org/title/Music_Player_Daemon)
 - [wlogout](https://github.com/ArtsyMacaw/wlogout)
+- [swww](https://github.com/LGFae/swww)
+- [Iosevka Nerd Font](https://typeof.net/Iosevka/)
+- [btop](https://github.com/aristocratos/btop)
+- [kitty](https://github.com/kovidgoyal/kitty)
+- [Neovim](https://github.com/neovim/neovim)
+- [cURL](https://github.com/curl/curl)
+- [Pipewire](https://gitlab.freedesktop.org/pipewire/pipewire)
 
 (Optional ones, just there in the screenshot)
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh)
